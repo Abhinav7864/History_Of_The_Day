@@ -1,0 +1,574 @@
+{
+  "november": [
+    {
+      "day": 1,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_001",
+          "title": "Karnataka Rajyotsava / Kerala Piravi",
+          "year": 1956,
+          "category": "Modern India",
+          "short_summary": "The reorganization of Indian states on linguistic lines led to the formation of Karnataka and Kerala.",
+          "full_story": "On this day in 1956, the States Reorganisation Act came into effect. The Kannada-speaking regions were merged to form Mysore State (later Karnataka), and the Malayalam-speaking regions formed Kerala. Several other states like MP, Punjab, and Haryana also share this foundation day.",
+          "ai_insight": "A day that defined the modern internal boundaries of India, balancing regional identity with national unity.",
+          "coordinates": { "lat": 12.9716, "lng": 77.5946 },
+          "location_name": "Vidhana Soudha, Bengaluru",
+          "tags": ["Statehood", "Language", "Governance"],
+          "image_url": "assets/images/state-formation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_002",
+          "title": "Birth of Shah Rukh Khan",
+          "year": 1965,
+          "category": "Art & Culture",
+          "short_summary": "Birth of the global cultural icon and 'Badshah' of Bollywood.",
+          "full_story": "Born in Delhi, Shah Rukh Khan's journey from television to becoming one of the world's most recognized film stars reflects the soft power of Indian cinema and the 'outsider' success story in the industry.",
+          "ai_insight": "Cinema serves as India's most potent global export, creating a shared cultural language across borders.",
+          "coordinates": { "lat": 19.0435, "lng": 72.8193 },
+          "location_name": "Mannat, Mumbai",
+          "tags": ["Cinema", "Culture", "Bollywood"],
+          "image_url": "assets/images/srk-birth.jpg"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_003",
+          "title": "Amartya Sen's Birthday",
+          "year": 1933,
+          "category": "Science",
+          "short_summary": "Birth of the Nobel-winning economist and philosopher.",
+          "full_story": "Born in Santiniketan, Amartya Sen was awarded the Nobel Prize in Economic Sciences in 1998 for his contributions to welfare economics and social choice theory, specifically his work on famines.",
+          "ai_insight": "Shifting the focus of economics from mere GDP growth to human capability and social justice.",
+          "coordinates": { "lat": 23.6788, "lng": 87.6755 },
+          "location_name": "Visva-Bharati, Santiniketan",
+          "tags": ["Economics", "Nobel Prize", "Education"],
+          "image_url": "assets/images/amartya-sen.jpg"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_004",
+          "title": "Birth of Shakuntala Devi",
+          "year": 1929,
+          "category": "Science",
+          "short_summary": "The 'Human Computer' who showcased Indian mathematical genius globally.",
+          "full_story": "A child prodigy, Shakuntala Devi could perform complex mental calculations in seconds. She famously calculated the 23rd root of a 201-digit number faster than the fastest computers of her time.",
+          "ai_insight": "A testament to the ancient Indian tradition of mental mathematics scaled to modern global recognition.",
+          "coordinates": { "lat": 12.9716, "lng": 77.5946 },
+          "location_name": "Bengaluru, Karnataka",
+          "tags": ["Mathematics", "Prodigy", "Science"],
+          "image_url": "assets/images/shakuntala-devi.jpg"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_005",
+          "title": "Launch of Mars Orbiter Mission (Mangalyaan)",
+          "year": 2013,
+          "category": "Science",
+          "short_summary": "ISRO launched India's first interplanetary mission to Mars.",
+          "full_story": "Launched from Sriharikota, Mangalyaan made India the first country to reach Mars on its debut attempt. It remains one of the most cost-effective space missions in history.",
+          "ai_insight": "Precision and cost-optimization (Jugaad engineering) put India in the elite club of global space powers.",
+          "coordinates": { "lat": 13.72, "lng": 80.23 },
+          "location_name": "Satish Dhawan Space Centre, Sriharikota",
+          "tags": ["ISRO", "Mars", "Space"],
+          "image_url": "assets/images/mangalyaan-launch.jpg"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_006",
+          "title": "Formation of National Defence Council",
+          "year": 1962,
+          "category": "Military",
+          "short_summary": "Established during the Indo-China war to advise on national defense.",
+          "full_story": "As the conflict with China escalated, this high-level advisory body was formed to coordinate between military strategy and civil administration, chaired by the Prime Minister.",
+          "ai_insight": "A structural response to a national security crisis that institutionalized strategic military planning.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "South Block, New Delhi",
+          "tags": ["Defense", "Strategy", "History"],
+          "image_url": "assets/images/defense-council.jpg"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_007",
+          "title": "Birth of Sir C.V. Raman",
+          "year": 1888,
+          "category": "Science",
+          "short_summary": "Birth of the first Asian to win a Nobel Prize in science.",
+          "full_story": "Born in Tiruchirappalli, Chandrasekhara Venkata Raman discovered the 'Raman Effect'—the scattering of light. His discovery proved that light changes wavelength when passing through a transparent material.",
+          "ai_insight": "Fundamental physics explored using simple equipment, proving that curiosity is the greatest scientific tool.",
+          "coordinates": { "lat": 10.8505, "lng": 78.7047 },
+          "location_name": "Trichy, Tamil Nadu",
+          "tags": ["Physics", "Nobel Prize", "Science"],
+          "image_url": "assets/images/cv-raman.jpg"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_008",
+          "title": "Demonetization Announced",
+          "year": 2016,
+          "category": "Economy",
+          "short_summary": "High-value currency notes (₹500 and ₹1000) were withdrawn overnight.",
+          "full_story": "In a televised address, PM Modi announced the withdrawal of 86% of India's circulating cash to curb black money and push the country toward a digital economy.",
+          "ai_insight": "A massive socio-economic shock that accelerated the adoption of UPI and digital payment systems.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "New Delhi",
+          "tags": ["Economy", "Policy", "Digital India"],
+          "image_url": "assets/images/demonetization.jpg"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_009",
+          "title": "Uttarakhand Foundation Day",
+          "year": 2000,
+          "category": "Modern India",
+          "short_summary": "Uttarakhand was carved out of Uttar Pradesh as the 27th state of India.",
+          "full_story": "Following a long-standing movement for a separate Himalayan state, Uttaranchal (later Uttarakhand) was formed to better manage the unique geographic and cultural needs of the region.",
+          "ai_insight": "The decentralization of governance to address the specific needs of mountain communities.",
+          "coordinates": { "lat": 30.3165, "lng": 78.0322 },
+          "location_name": "Dehradun, Uttarakhand",
+          "tags": ["Statehood", "Himalayas", "History"],
+          "image_url": "assets/images/uttarakhand-found.jpg"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_010",
+          "title": "Death of Surendranath Banerjee",
+          "year": 1925,
+          "category": "Pre-Independence",
+          "short_summary": "Death of the 'Rashtraguru' and a founding father of the INC.",
+          "full_story": "Banerjee was a pioneer of the Indian political movement, focusing on civil rights and constitutional reforms. He founded the Indian National Association, which later merged with the Congress.",
+          "ai_insight": "The intellectual architect of early Indian nationalism and organized political protest.",
+          "coordinates": { "lat": 22.5726, "lng": 88.3639 },
+          "location_name": "Kolkata, West Bengal",
+          "tags": ["Nationalism", "Congress", "Independence"],
+          "image_url": "assets/images/banerjee.jpg"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_011",
+          "title": "National Education Day",
+          "year": 1888,
+          "category": "Modern India",
+          "short_summary": "Birth anniversary of Maulana Abul Kalam Azad, India’s first Education Minister.",
+          "full_story": "Azad was a key figure in the independence movement and oversaw the establishment of the IITs, IISc, and the UGC. He believed education was the foundation of a modern, secular India.",
+          "ai_insight": "The institutional framework of modern Indian intellect was built under his guidance.",
+          "coordinates": { "lat": 28.6507, "lng": 77.2334 },
+          "location_name": "Jama Masjid (Tomb), Delhi",
+          "tags": ["Education", "IIT", "Statesman"],
+          "image_url": "assets/images/maulana-azad.jpg"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_012",
+          "title": "Birth of Salim Ali",
+          "year": 1896,
+          "category": "Science",
+          "short_summary": "Birth of the 'Birdman of India'.",
+          "full_story": "Salim Ali was the first Indian to conduct systematic bird surveys across India. His research was instrumental in the establishment of Bharatpur Bird Sanctuary and Silent Valley National Park.",
+          "ai_insight": "Conservation as a scientific discipline was pioneered in India through his lifelong dedication to ornithology.",
+          "coordinates": { "lat": 18.9284, "lng": 72.8333 },
+          "location_name": "BNHS, Mumbai",
+          "tags": ["Conservation", "Ecology", "Science"],
+          "image_url": "assets/images/salim-ali.jpg"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_013",
+          "title": "Birth of Maharaja Ranjit Singh",
+          "year": 1780,
+          "category": "Ancient/Medieval India",
+          "short_summary": "Birth of the founder of the Sikh Empire.",
+          "full_story": "Known as the 'Lion of Punjab,' Ranjit Singh unified the warring Sikh misls and established a powerful, secular empire that successfully resisted British expansion during his lifetime.",
+          "ai_insight": "A model of inclusive governance and military modernization in 18th-century India.",
+          "coordinates": { "lat": 31.62, "lng": 74.8765 },
+          "location_name": "Golden Temple, Amritsar",
+          "tags": ["Sikh Empire", "History", "Warrior"],
+          "image_url": "assets/images/ranjit-singh.jpg"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_014",
+          "title": "Children’s Day (Birth of Jawaharlal Nehru)",
+          "year": 1889,
+          "category": "Modern India",
+          "short_summary": "Birth of India’s first Prime Minister, celebrated as Bal Diwas.",
+          "full_story": "Nehru’s vision of a democratic, industrialized, and scientific India shaped the first two decades of independence. His affection for children earned him the name 'Chacha Nehru'.",
+          "ai_insight": "The 'Discovery of India' became a roadmap for building a sovereign, modern state.",
+          "coordinates": { "lat": 25.4542, "lng": 81.8519 },
+          "location_name": "Anand Bhavan, Prayagraj",
+          "tags": ["Nehru", "Democracy", "Bal Diwas"],
+          "image_url": "assets/images/nehru-birth.jpg"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_015",
+          "title": "Birsa Munda Jayanti / Jharkhand Foundation Day",
+          "year": 1875,
+          "category": "Social Reform",
+          "short_summary": "Birth of the tribal freedom fighter and the creation of Jharkhand in 2000.",
+          "full_story": "Birsa Munda led the 'Ulgulan' (Great Tumult) movement against British exploitation of tribal lands. His legacy is honored with the statehood day of Jharkhand.",
+          "ai_insight": "A symbol of tribal resistance and identity reclaiming their 'Jal, Jangal, Zameen'.",
+          "coordinates": { "lat": 23.3441, "lng": 85.3096 },
+          "location_name": "Ulihatu, Jharkhand",
+          "tags": ["Tribal Rights", "Independence", "Jharkhand"],
+          "image_url": "assets/images/birsa-munda.jpg"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_016",
+          "title": "National Press Day",
+          "year": 1966,
+          "category": "Modern India",
+          "short_summary": "Marking the start of the Press Council of India.",
+          "full_story": "The Press Council acts as a moral watchdog to ensure that the freedom of the press is maintained while upholding high standards of journalism in the country.",
+          "ai_insight": "The fourth pillar of democracy, ensuring accountability through information.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "Press Council of India, New Delhi",
+          "tags": ["Journalism", "Democracy", "Free Press"],
+          "image_url": "assets/images/press-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_017",
+          "title": "Death of Lala Lajpat Rai",
+          "year": 1928,
+          "category": "Pre-Independence",
+          "short_summary": "The 'Lion of Punjab' died after being injured during a protest against the Simon Commission.",
+          "full_story": "Rai's death sparked a wave of revolutionary fervor across India, leading to acts of resistance by Bhagat Singh and others. He was a pillar of the 'Lal-Bal-Pal' trio.",
+          "ai_insight": "Sacrifice that transformed a peaceful protest into a nationwide revolutionary surge.",
+          "coordinates": { "lat": 30.89, "lng": 75.8573 },
+          "location_name": "Ludhiana, Punjab",
+          "tags": ["Independence", "Punjab Kesari", "Martyr"],
+          "image_url": "assets/images/lajpat-rai.jpg"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_018",
+          "title": "Birth of Batukeshwar Dutt",
+          "year": 1910,
+          "category": "Pre-Independence",
+          "short_summary": "The revolutionary who threw bombs in the Central Legislative Assembly with Bhagat Singh.",
+          "full_story": "Dutt's role was to raise the voice of the Indian masses to 'make the deaf hear.' He survived the long imprisonment in Cellular Jail, unlike many of his comrades.",
+          "ai_insight": "The power of symbolic resistance to capture the global imagination.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Parliament House, Delhi",
+          "tags": ["Revolutionary", "Bhagat Singh", "Independence"],
+          "image_url": "assets/images/batukeshwar-dutt.jpg"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_019",
+          "title": "Birth of Rani Lakshmibai / Indira Gandhi",
+          "year": 1828,
+          "category": "Pre-Independence",
+          "short_summary": "Birth of two of India's most powerful female leaders.",
+          "full_story": "Rani Lakshmibai was the icon of the 1857 revolt, and Indira Gandhi was India's first female Prime Minister. Both are remembered for their extraordinary resolve and 'Iron' leadership.",
+          "ai_insight": "A day celebrating leadership that defied gender norms to steer the nation's destiny.",
+          "coordinates": { "lat": 25.4484, "lng": 78.5685 },
+          "location_name": "Jhansi Fort, Uttar Pradesh",
+          "tags": ["Leadership", "History", "Women Icons"],
+          "image_url": "assets/images/women-leaders.jpg"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_020",
+          "title": "Birth of Milkha Singh",
+          "year": 1929,
+          "category": "Art & Culture",
+          "short_summary": "Birth of 'The Flying Sikh'.",
+          "full_story": "From the trauma of partition to becoming India's greatest track athlete, Milkha Singh's life is a story of grit. He won four Asian Games gold medals and narrowly missed an Olympic podium in 1960.",
+          "ai_insight": "Sports as a medium for national healing and international pride.",
+          "coordinates": { "lat": 30.7333, "lng": 76.7794 },
+          "location_name": "Chandigarh",
+          "tags": ["Sports", "Athletics", "Inspiration"],
+          "image_url": "assets/images/milkha-singh.jpg"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_021",
+          "title": "Passing of Sir C.V. Raman",
+          "year": 1970,
+          "category": "Science",
+          "short_summary": "Death of the Nobel laureate in Bengaluru.",
+          "full_story": "Raman spent his final years at the Raman Research Institute, which he founded. He remained a fierce advocate for independent Indian scientific research until his death.",
+          "ai_insight": "A legacy of scientific institutionalism that continues to fuel Indian innovation.",
+          "coordinates": { "lat": 13.0125, "lng": 77.5847 },
+          "location_name": "Raman Research Institute, Bengaluru",
+          "tags": ["Science", "Legacy", "Physics"],
+          "image_url": "assets/images/cv-raman-memorial.jpg"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_022",
+          "title": "Birth of Jhalkari Bai",
+          "year": 1830,
+          "category": "Pre-Independence",
+          "short_summary": "The brave soldier in Rani Lakshmibai’s army.",
+          "full_story": "Jhalkari Bai was a body double for the Rani of Jhansi. During the siege of Jhansi, she disguised herself as the queen to allow Lakshmibai to escape, fighting the British single-handedly.",
+          "ai_insight": "The unsung heroism of the Dalit community in India's first war of independence.",
+          "coordinates": { "lat": 25.4484, "lng": 78.5685 },
+          "location_name": "Jhansi, Uttar Pradesh",
+          "tags": ["Warrior", "Dalit Icon", "Bravery"],
+          "image_url": "assets/images/jhalkari-bai.jpg"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_023",
+          "title": "Birth of Sathya Sai Baba",
+          "year": 1926,
+          "category": "Culture",
+          "short_summary": "Birth of the influential spiritual leader and philanthropist.",
+          "full_story": "He established a global network of spiritual centers and focused heavily on free education and healthcare, notably the super-specialty hospitals in Puttaparthi and Bengaluru.",
+          "ai_insight": "Faith-based social service as a significant supplement to public welfare infrastructure.",
+          "coordinates": { "lat": 14.1661, "lng": 77.8119 },
+          "location_name": "Prasanthi Nilayam, Puttaparthi",
+          "tags": ["Spirituality", "Philanthropy", "Social Service"],
+          "image_url": "assets/images/sai-baba.jpg"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_024",
+          "title": "Lachit Diwas",
+          "year": 1622,
+          "category": "Ancient/Medieval India",
+          "short_summary": "Celebrating the Ahom General Lachit Borphukan.",
+          "full_story": "He is famous for his leadership in the 1671 Battle of Saraighat, where he defeated the Mughal forces. He is a symbol of Assamese resistance and military brilliance.",
+          "ai_insight": "Strategic use of river terrain to overcome a much larger imperial army.",
+          "coordinates": { "lat": 26.1445, "lng": 91.7362 },
+          "location_name": "Saraighat, Guwahati",
+          "tags": ["Warrior", "Assam", "History"],
+          "image_url": "assets/images/lachit-borphukan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_025",
+          "title": "Passing of Yashwantrao Chavan",
+          "year": 1984,
+          "category": "Modern India",
+          "short_summary": "Death of the first Chief Minister of Maharashtra and former Deputy PM.",
+          "full_story": "Chavan was a strong proponent of the cooperative movement and played a pivotal role in the industrial development of Maharashtra and the security of India as Defense Minister.",
+          "ai_insight": "A leader who bridged the gap between rural development and national strategic planning.",
+          "coordinates": { "lat": 17.5937, "lng": 74.1925 },
+          "location_name": "Karad, Maharashtra",
+          "tags": ["Statesman", "Maharashtra", "Politics"],
+          "image_url": "assets/images/yashwantrao-chavan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_026",
+          "title": "Constitution Day / National Milk Day",
+          "year": 1949,
+          "category": "Modern India",
+          "short_summary": "Adoption of the Constitution and birth of Dr. Verghese Kurien.",
+          "full_story": "This day marks the adoption of the Indian Constitution in 1949. It is also the birthday of the 'Father of White Revolution,' who made India the world's largest milk producer.",
+          "ai_insight": "Law and food security—the two fundamental pillars of a sovereign republic—celebrated together.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Central Hall, Parliament, Delhi",
+          "tags": ["Constitution", "Ambedkar", "Milk Revolution"],
+          "image_url": "assets/images/constitution-milk.jpg"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_027",
+          "title": "Birth of Harivansh Rai Bachchan",
+          "year": 1907,
+          "category": "Art & Culture",
+          "short_summary": "Birth of the celebrated Hindi poet, author of 'Madhushala'.",
+          "full_story": "A key figure of the 'Chhayavaad' literary movement, his poetry resonated with the common man. His house in Prayagraj was a center for literary discourse.",
+          "ai_insight": "Literature that provided a philosophical anchor to the post-independence generation.",
+          "coordinates": { "lat": 25.4542, "lng": 81.8519 },
+          "location_name": "Prayagraj, Uttar Pradesh",
+          "tags": ["Literature", "Poetry", "Hindi"],
+          "image_url": "assets/images/bachchan-poet.jpg"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_028",
+          "title": "Passing of Jyotirao Phule",
+          "year": 1890,
+          "category": "Social Reform",
+          "short_summary": "Death of the pioneer of women's education and anti-caste social reformer.",
+          "full_story": "Phule founded the Satyashodhak Samaj and worked tirelessly for the upliftment of the oppressed classes. He and his wife Savitribai opened the first school for girls in India.",
+          "ai_insight": "The roots of modern Indian social justice and gender equality lie in his 19th-century struggle.",
+          "coordinates": { "lat": 18.5204, "lng": 73.8567 },
+          "location_name": "Phule Wada, Pune",
+          "tags": ["Social Reform", "Education", "Caste Equality"],
+          "image_url": "assets/images/jyotirao-phule.jpg"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_029",
+          "title": "Passing of J.R.D. Tata",
+          "year": 1993,
+          "category": "Business",
+          "short_summary": "Death of the father of Indian aviation and industrial visionary.",
+          "full_story": "JRD Tata was the first licensed pilot in India and founded Air India. Under his chairmanship, the Tata Group grew into an industrial giant while maintaining a philosophy of 'trusteeship'.",
+          "ai_insight": "Industrial growth that was inseparable from national progress and ethical corporate governance.",
+          "coordinates": { "lat": 18.9248, "lng": 72.8315 },
+          "location_name": "Bombay House, Mumbai",
+          "tags": ["Aviation", "Industrialist", "Tata"],
+          "image_url": "assets/images/jrd-tata.jpg"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "month": "November",
+      "events": [
+        {
+          "id": "nov_030",
+          "title": "Birth of Jagadish Chandra Bose",
+          "year": 1858,
+          "category": "Science",
+          "short_summary": "The polymath who pioneered wireless communication and plant physiology.",
+          "full_story": "Bose invented the crescograph to measure plant growth and demonstrated wireless signaling before Marconi. He is considered the father of Bengali science fiction as well.",
+          "ai_insight": "A bridge between physics and biology, proving that all of nature is interconnected through measurable response.",
+          "coordinates": { "lat": 22.5855, "lng": 88.3533 },
+          "location_name": "Bose Institute, Kolkata",
+          "tags": ["Science", "Innovation", "Botany"],
+          "image_url": "assets/images/jc-bose.jpg"
+        }
+      ]
+    }
+  ]
+}

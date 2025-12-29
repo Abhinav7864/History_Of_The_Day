@@ -1,0 +1,574 @@
+{
+  "september": [
+    {
+      "day": 1,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_001",
+          "title": "LIC of India Established",
+          "year": 1956,
+          "category": "Modern India",
+          "short_summary": "The Life Insurance Corporation of India was created by nationalizing 245 insurance companies.",
+          "full_story": "The Parliament of India passed the Life Insurance Corporation Act on the 19th of June 1956, and the corporation was created on 1st September 1956 with the objective of spreading life insurance much more widely and in particular to the rural areas.",
+          "ai_insight": "Financial security became a state-backed promise, shifting the economy toward institutional savings.",
+          "coordinates": { "lat": 18.9284, "lng": 72.8333 },
+          "location_name": "Yogakshema Building, Mumbai",
+          "tags": ["Economy", "Finance", "Nationalization"],
+          "image_url": "assets/images/lic-foundation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_002",
+          "title": "Interim Government Formed",
+          "year": 1946,
+          "category": "Pre-Independence",
+          "short_summary": "The Interim Government of India was formed to assist the transition to independence.",
+          "full_story": "Led by Jawaharlal Nehru as Vice President of the Executive Council, this government was the first step toward self-rule, managing the country until the formal transfer of power from the British Crown.",
+          "ai_insight": "The bridge between colonial rule and sovereign democracy was built on this day.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Rashtrapati Bhavan, Delhi",
+          "tags": ["Governance", "Independence", "Nehru"],
+          "image_url": "assets/images/interim-govt.jpg"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_003",
+          "title": "India Enters WWII",
+          "year": 1939,
+          "category": "Pre-Independence",
+          "short_summary": "Viceroy Lord Linlithgow declared India at war with Germany.",
+          "full_story": "Without consulting Indian political leaders, the British government declared India a belligerent in WWII. This sparked a political crisis that eventually led to the Quit India Movement.",
+          "ai_insight": "A moment that highlighted the lack of Indian agency under colonial rule, accelerating the demand for Purna Swaraj.",
+          "coordinates": { "lat": 28.6129, "lng": 77.2295 },
+          "location_name": "India Gate, New Delhi",
+          "tags": ["War", "British Raj", "History"],
+          "image_url": "assets/images/ww2-india.jpg"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_004",
+          "title": "Dadabhai Naoroji Birth",
+          "year": 1825,
+          "category": "Pre-Independence",
+          "short_summary": "Birth of the 'Grand Old Man of India' and proponent of the Drain Theory.",
+          "full_story": "Dadabhai Naoroji was a key founding member of the INC and the first Indian to be a British MP. His book 'Poverty and Un-British Rule in India' exposed the economic exploitation by the British.",
+          "ai_insight": "Naoroji used data and economics as a weapon for liberation, proving that knowledge is power.",
+          "coordinates": { "lat": 18.9389, "lng": 72.8353 },
+          "location_name": "Navsari, Gujarat",
+          "tags": ["Nationalism", "Economics", "INC"],
+          "image_url": "assets/images/naoroji.jpg"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_005",
+          "title": "Birth of Dr. S. Radhakrishnan",
+          "year": 1888,
+          "category": "Modern India",
+          "short_summary": "Celebrated as Teachers' Day in India to honor the second President and philosopher.",
+          "full_story": "Dr. Sarvepalli Radhakrishnan was a distinguished philosopher and statesman. When he became President, his students requested to celebrate his birthday; he suggested it be observed as Teachers' Day instead.",
+          "ai_insight": "A leader who prioritized the wisdom of educators over the vanity of office.",
+          "coordinates": { "lat": 13.0827, "lng": 80.2707 },
+          "location_name": "Thiruttani, Tamil Nadu",
+          "tags": ["Education", "Philosophy", "President"],
+          "image_url": "assets/images/radhakrishnan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_006",
+          "title": "Decriminalization of Section 377",
+          "year": 2018,
+          "category": "Modern India",
+          "short_summary": "The Supreme Court of India strikes down the colonial-era law criminalizing consensual gay sex.",
+          "full_story": "In a historic judgment (Navtej Singh Johar v. Union of India), the 5-judge bench ruled that portions of Section 377 were unconstitutional, marking a victory for LGBTQ+ rights in India.",
+          "ai_insight": "A pivotal moment where the judiciary prioritized individual dignity and constitutional morality over outdated societal norms.",
+          "coordinates": { "lat": 28.6144, "lng": 77.2343 },
+          "location_name": "Supreme Court, Delhi",
+          "tags": ["Judiciary", "Human Rights", "Legal"],
+          "image_url": "assets/images/sec-377.jpg"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_007",
+          "title": "Chandrayaan-2 Vikram Lander Attempt",
+          "year": 2019,
+          "category": "Science",
+          "short_summary": "ISRO's Vikram lander lost communication minutes before touchdown on the moon.",
+          "full_story": "While the orbiter remained successful, the lander lost contact during the '15 minutes of terror' descent. Despite the heartbreak, the mission provided invaluable data for the successful Chandrayaan-3.",
+          "ai_insight": "In complex systems, failure is often the most rigorous teacher on the path to success.",
+          "coordinates": { "lat": 13.0343, "lng": 77.565 },
+          "location_name": "ISRO Telemetry Tracking Command Network, Bengaluru",
+          "tags": ["Space", "Science", "ISRO"],
+          "image_url": "assets/images/chandrayaan-2.jpg"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_008",
+          "title": "Passing of Feroze Gandhi",
+          "year": 1960,
+          "category": "Modern India",
+          "short_summary": "Death of the prominent journalist, politician, and 'Anti-Corruption' crusader.",
+          "full_story": "Feroze Gandhi was an influential MP who famously exposed the Mundhra Scandal. His work led to the resignation of the then Finance Minister and highlighted the importance of parliamentary oversight.",
+          "ai_insight": "A reminder that strong democracy requires internal vigilance and accountability.",
+          "coordinates": { "lat": 25.4358, "lng": 81.8463 },
+          "location_name": "Anand Bhavan, Prayagraj",
+          "tags": ["Politics", "Journalism", "Anti-Corruption"],
+          "image_url": "assets/images/feroze-gandhi.jpg"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_009",
+          "title": "Birth of Captain Vikram Batra",
+          "year": 1974,
+          "category": "Military",
+          "short_summary": "Birth of the Kargil War hero known as 'Shershah'.",
+          "full_story": "Captain Batra was awarded the Param Vir Chakra posthumously for his unmatched bravery in capturing Point 5140 and Point 4875. His signal, 'Yeh Dil Maange More!', became a national rallying cry.",
+          "ai_insight": "Valour in the face of extreme adversity defines the spirit of national sovereignty.",
+          "coordinates": { "lat": 32.1109, "lng": 76.5363 },
+          "location_name": "Palampur, Himachal Pradesh",
+          "tags": ["Military", "Kargil War", "Bravery"],
+          "image_url": "assets/images/vikram-batra.jpg"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_010",
+          "title": "Birth of Govind Ballabh Pant",
+          "year": 1887,
+          "category": "Pre-Independence",
+          "short_summary": "A primary leader of the Indian independence movement and first CM of Uttar Pradesh.",
+          "full_story": "Pant played a key role in the salt satyagraha and later served as the Home Minister of India, where he was instrumental in the reorganisation of states on linguistic lines.",
+          "ai_insight": "Language and regional identity were integrated into the federal structure under his watch.",
+          "coordinates": { "lat": 29.5892, "lng": 79.6467 },
+          "location_name": "Almora, Uttarakhand",
+          "tags": ["Statesman", "UP", "Independence"],
+          "image_url": "assets/images/gb-pant.jpg"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_011",
+          "title": "Vinoba Bhave Birth",
+          "year": 1895,
+          "category": "Modern India",
+          "short_summary": "Birth of the leader of the Bhoodan Movement and advocate for non-violence.",
+          "full_story": "Acharya Vinoba Bhave was Gandhi's spiritual successor. He walked across India to persuade wealthy landowners to voluntarily give land to the landless (Bhoodan Movement).",
+          "ai_insight": "A unique experiment in social justice through voluntary empathy rather than state coercion.",
+          "coordinates": { "lat": 18.1755, "lng": 73.2307 },
+          "location_name": "Gagode, Maharashtra",
+          "tags": ["Social Reform", "Non-violence", "Bhoodan"],
+          "image_url": "assets/images/vinoba-bhave.jpg"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_012",
+          "title": "Battle of Saragarhi",
+          "year": 1897,
+          "category": "Military",
+          "short_summary": "21 soldiers of the 36th Sikhs defended a post against 10,000 Afghan tribesmen.",
+          "full_story": "Considered one of history's greatest last stands, the soldiers chose to fight to the death to keep communication lines open. All 21 were awarded the Indian Order of Merit.",
+          "ai_insight": "Strategic communication and absolute loyalty create legends that outlive empires.",
+          "coordinates": { "lat": 30.9237, "lng": 74.6221 },
+          "location_name": "Saragarhi Memorial, Ferozepur",
+          "tags": ["Military", "Sikh Regiment", "Valour"],
+          "image_url": "assets/images/saragarhi.jpg"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_013",
+          "title": "Operation Polo Begins",
+          "year": 1948,
+          "category": "Modern India",
+          "short_summary": "The military action to integrate the Princely State of Hyderabad into India.",
+          "full_story": "After the Nizam refused to join the Union, Indian forces launched a 5-day operation. This ensured the geographic and political unity of Central India.",
+          "ai_insight": "Hard power was sometimes necessary to finalize the map of a unified India.",
+          "coordinates": { "lat": 17.385, "lng": 78.4867 },
+          "location_name": "Charminar, Hyderabad",
+          "tags": ["Unification", "Military", "Sardar Patel"],
+          "image_url": "assets/images/operation-polo.jpg"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_014",
+          "title": "Hindi Diwas",
+          "year": 1949,
+          "category": "Culture",
+          "short_summary": "The Constituent Assembly of India adopted Hindi as an official language.",
+          "full_story": "Hindi written in Devanagari script was chosen to be one of the official languages of the Union. This day is observed to promote the language and its literature.",
+          "ai_insight": "Language choice in a diverse nation is a delicate balance between unity and identity.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Parliament House, Delhi",
+          "tags": ["Language", "Culture", "Constitution"],
+          "image_url": "assets/images/hindi-diwas.jpg"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_015",
+          "title": "Engineer's Day (Sir M. Visvesvaraya)",
+          "year": 1860,
+          "category": "Science",
+          "short_summary": "Birth of India's greatest civil engineer and Bharat Ratna recipient.",
+          "full_story": "Sir M.V. was responsible for the Krishna Raja Sagara dam and the flood protection system for Hyderabad. His work laid the foundation for modern Indian infrastructure.",
+          "ai_insight": "Engineering is the silent skeleton upon which a nation's prosperity is built.",
+          "coordinates": { "lat": 13.3934, "lng": 77.7283 },
+          "location_name": "Muddenahalli, Karnataka",
+          "tags": ["Engineering", "Infrastructure", "Innovation"],
+          "image_url": "assets/images/visvesvaraya.jpg"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_016",
+          "title": "Arjan Singh Passes Away",
+          "year": 2017,
+          "category": "Military",
+          "short_summary": "Death of the only officer of the IAF to be promoted to five-star rank.",
+          "full_story": "Marshal of the Air Force Arjan Singh led the IAF during the 1965 Indo-Pak War. His leadership transformed the IAF into a modern, formidable force.",
+          "ai_insight": "Commanding respect through skill and longevity, he remains the 'eternal pilot' of Indian air power.",
+          "coordinates": { "lat": 28.5888, "lng": 77.2241 },
+          "location_name": "Air Force Station, New Delhi",
+          "tags": ["IAF", "Military", "War Hero"],
+          "image_url": "assets/images/arjan-singh.jpg"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_017",
+          "title": "E.V. Ramasamy (Periyar) Birth",
+          "year": 1879,
+          "category": "Social Reform",
+          "short_summary": "Father of the Self-Respect Movement and Dravidian ideology.",
+          "full_story": "Periyar campaigned against caste inequality and for women's rights in South India. His rationalist approach reshaped the political landscape of Tamil Nadu.",
+          "ai_insight": "A radical shift towards social logic and dignity over inherited hierarchy.",
+          "coordinates": { "lat": 11.341, "lng": 77.7172 },
+          "location_name": "Erode, Tamil Nadu",
+          "tags": ["Social Reform", "Rationalism", "Dravidian"],
+          "image_url": "assets/images/periyar.jpg"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_018",
+          "title": "Foundation of IISc (Vision of Jamsetji Tata)",
+          "year": 1898,
+          "category": "Science",
+          "short_summary": "Jamsetji Tata wrote to Swami Vivekananda regarding a Research Institute.",
+          "full_story": "The letter discussed establishing a university of science for India. This vision eventually materialized as the Indian Institute of Science in Bengaluru in 1909.",
+          "ai_insight": "The collaboration of industrial vision and spiritual guidance birthed India’s premier scientific legacy.",
+          "coordinates": { "lat": 13.0184, "lng": 77.5673 },
+          "location_name": "IISc, Bengaluru",
+          "tags": ["Science", "Education", "Tata"],
+          "image_url": "assets/images/iisc-tata.jpg"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_019",
+          "title": "Indus Waters Treaty Signed",
+          "year": 1960,
+          "category": "Modern India",
+          "short_summary": "Water-sharing treaty signed between India and Pakistan.",
+          "full_story": "Brokered by the World Bank, PM Nehru and President Ayub Khan signed the treaty in Karachi. It remains one of the most successful water-sharing agreements globally despite wars.",
+          "ai_insight": "Hydrology often dictates diplomacy more effectively than ideology.",
+          "coordinates": { "lat": 24.8607, "lng": 67.0011 },
+          "location_name": "Karachi (Event Location), History: Wagah/Amritsar",
+          "tags": ["Diplomacy", "Water", "History"],
+          "image_url": "assets/images/indus-treaty.jpg"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_020",
+          "title": "Annie Besant's Home Rule League",
+          "year": 1916,
+          "category": "Pre-Independence",
+          "short_summary": "Launch of the Home Rule movement to demand self-government for India.",
+          "full_story": "Inspired by the Irish Home Rule movement, Annie Besant and Tilak organized a national network to demand dominion status within the British Empire.",
+          "ai_insight": "Global influences often catalyzed the local demand for liberty.",
+          "coordinates": { "lat": 13.0067, "lng": 80.2578 },
+          "location_name": "Adyar, Chennai",
+          "tags": ["Independence", "Annie Besant", "Politics"],
+          "image_url": "assets/images/home-rule.jpg"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_021",
+          "title": "Death of Murtaza Bashir",
+          "year": 1782,
+          "category": "Ancient/Medieval India",
+          "short_summary": "Strategic contexts of the Second Anglo-Mysore War.",
+          "full_story": "During this period, Haider Ali and Tipu Sultan were at the height of their resistance against the East India Company, utilizing the first iron-cased rockets.",
+          "ai_insight": "Early Indian military innovation challenged global colonial expansion.",
+          "coordinates": { "lat": 12.425, "lng": 76.682 },
+          "location_name": "Srirangapatna, Karnataka",
+          "tags": ["Mysore", "Warfare", "History"],
+          "image_url": "assets/images/mysore-rockets.jpg"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_022",
+          "title": "Gandhi Adopts the Loincloth",
+          "year": 1921,
+          "category": "Pre-Independence",
+          "short_summary": "Mahatma Gandhi decided to wear only a dhoti to identify with the poor.",
+          "full_story": "In Madurai, seeing the poverty of the masses who couldn't afford Khadi, Gandhi shed his traditional attire for a simple loincloth, which became his global icon.",
+          "ai_insight": "Clothing as a political statement; empathy transformed into a visual revolution.",
+          "coordinates": { "lat": 9.9197, "lng": 78.1194 },
+          "location_name": "Madurai, Tamil Nadu",
+          "tags": ["Gandhi", "Khadi", "Social Reform"],
+          "image_url": "assets/images/gandhi-loincloth.jpg"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_023",
+          "title": "Ayushman Bharat Launch",
+          "year": 2018,
+          "category": "Modern India",
+          "short_summary": "The PMJAY health insurance scheme was launched to cover 50 crore citizens.",
+          "full_story": "Launched from Ranchi, it is the world's largest government-funded healthcare program, aiming to provide a cover of 5 lakhs per family per year.",
+          "ai_insight": "Scaling healthcare for a billion people requires digital-first governance.",
+          "coordinates": { "lat": 23.3441, "lng": 85.3096 },
+          "location_name": "Ranchi, Jharkhand",
+          "tags": ["Healthcare", "Governance", "Modern India"],
+          "image_url": "assets/images/ayushman-bharat.jpg"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_024",
+          "title": "Mangalyaan Enters Mars Orbit",
+          "year": 2014,
+          "category": "Science",
+          "short_summary": "India becomes the first nation to reach Mars on its first attempt.",
+          "full_story": "The Mars Orbiter Mission (MOM) succeeded at a fraction of the cost of NASA’s missions, showcasing India's capability in 'frugal innovation'.",
+          "ai_insight": "High-tech success is possible even with limited resources through optimized engineering.",
+          "coordinates": { "lat": 13.0343, "lng": 77.565 },
+          "location_name": "ISRO Center, Bengaluru",
+          "tags": ["Space", "Mars", "ISRO"],
+          "image_url": "assets/images/mangalyaan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_025",
+          "title": "Birth of Deendayal Upadhyaya",
+          "year": 1916,
+          "category": "Politics",
+          "short_summary": "Birth of the proponent of 'Integral Humanism'.",
+          "full_story": "A key leader of the Bharatiya Jana Sangh, his philosophy of Antyodaya (uplifting the last person) has influenced modern Indian socio-economic policies.",
+          "ai_insight": "A philosophical push to ground Indian governance in indigenous thought rather than purely Western models.",
+          "coordinates": { "lat": 27.2848, "lng": 77.7274 },
+          "location_name": "Mathura, Uttar Pradesh",
+          "tags": ["Philosophy", "Politics", "Antyodaya"],
+          "image_url": "assets/images/upadhyaya.jpg"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_026",
+          "title": "CSIR Founded",
+          "year": 1942,
+          "category": "Science",
+          "short_summary": "Establishment of the Council of Scientific and Industrial Research.",
+          "full_story": "Founded by Shanti Swarup Bhatnagar and Arcot Ramasamy Mudaliar, CSIR became the umbrella for India's premier national laboratories.",
+          "ai_insight": "The institutionalization of research is the precursor to industrial self-reliance.",
+          "coordinates": { "lat": 28.6185, "lng": 77.2144 },
+          "location_name": "CSIR Bhawan, New Delhi",
+          "tags": ["Science", "Research", "Development"],
+          "image_url": "assets/images/csir-foundation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_027",
+          "title": "Passing of Raja Ram Mohan Roy",
+          "year": 1833,
+          "category": "Social Reform",
+          "short_summary": "Death of the 'Father of Modern India'.",
+          "full_story": "Ram Mohan Roy was instrumental in the abolition of Sati and founded the Brahmo Samaj. He died in Bristol, UK, while advocating for Indian rights.",
+          "ai_insight": "The first major intellectual bridge between Indian tradition and modern global ethics.",
+          "coordinates": { "lat": 22.5726, "lng": 88.3639 },
+          "location_name": "Kolkata, West Bengal",
+          "tags": ["Social Reform", "Education", "Brahmo Samaj"],
+          "image_url": "assets/images/ram-mohan-roy.jpg"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_028",
+          "title": "Birth of Bhagat Singh",
+          "year": 1907,
+          "category": "Pre-Independence",
+          "short_summary": "Birth of the legendary revolutionary who sacrificed his life for freedom.",
+          "full_story": "Bhagat Singh's intellectualism and daring acts of resistance against the British Raj inspired millions. His ideology blended socialism with the fight for independence.",
+          "ai_insight": "Youthful radicalism, when paired with deep intellectual study, can shake empires.",
+          "coordinates": { "lat": 30.8932, "lng": 74.5517 },
+          "location_name": "Hussainiwala Memorial, Punjab",
+          "tags": ["Revolutionary", "Socialism", "Martyr"],
+          "image_url": "assets/images/bhagat-singh.jpg"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_029",
+          "title": "Surgical Strikes Announced",
+          "year": 2016,
+          "category": "Military",
+          "short_summary": "Indian Special Forces conducted strikes across the LoC against terror pads.",
+          "full_story": "In response to the Uri attack, India conducted precision strikes. The announcement marked a significant shift in India's strategic policy regarding border security.",
+          "ai_insight": "A shift from strategic restraint to a policy of proactive deterrence.",
+          "coordinates": { "lat": 34.0837, "lng": 74.7973 },
+          "location_name": "Srinagar (Military HQ), J&K",
+          "tags": ["Military", "Defense", "Security"],
+          "image_url": "assets/images/surgical-strike.jpg"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "month": "September",
+      "events": [
+        {
+          "id": "sep_030",
+          "title": "Latur Earthquake",
+          "year": 1993,
+          "category": "Modern India",
+          "short_summary": "A devastating earthquake struck the Latur-Killari region.",
+          "full_story": "Measuring 6.2 on the Richter scale, it was one of India's deadliest intraplate earthquakes. The tragedy led to significant changes in disaster management and housing codes in India.",
+          "ai_insight": "Natural disasters often force a leap forward in civil engineering and crisis response protocols.",
+          "coordinates": { "lat": 18.4088, "lng": 76.5604 },
+          "location_name": "Latur, Maharashtra",
+          "tags": ["Disaster Management", "History", "Resilience"],
+          "image_url": "assets/images/latur-earthquake.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "december": [
+    {
+      "day": 1,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_001",
+          "title": "BSF Raising Day",
+          "year": 1965,
+          "category": "Security",
+          "short_summary": "The Border Security Force was established to ensure the security of India's borders.",
+          "full_story": "Following the 1965 Indo-Pak war, the need for a specialized central force to man international borders was felt. Today, it is one of the world's largest border-guarding forces.",
+          "ai_insight": "A shift from state police guarding borders to a centralized, specialized paramilitary defense.",
+          "coordinates": { "lat": 28.5915, "lng": 77.2274 },
+          "location_name": "BSF Headquarters, New Delhi",
+          "tags": ["Security", "Defense", "BSF"],
+          "image_url": "assets/images/bsf-raising.jpg"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_002",
+          "title": "Bhopal Gas Tragedy",
+          "year": 1984,
+          "category": "Modern India",
+          "short_summary": "World's worst industrial disaster occurred at the Union Carbide plant.",
+          "full_story": "A leak of Methyl Isocyanate (MIC) gas exposed hundreds of thousands of people. The incident led to massive changes in environmental and industrial safety laws in India.",
+          "ai_insight": "A tragic catalyst for the 'Right to Life' being interpreted to include a healthy environment in Indian law.",
+          "coordinates": { "lat": 23.2813, "lng": 77.4103 },
+          "location_name": "Union Carbide Factory, Bhopal",
+          "tags": ["History", "Environment", "Safety"],
+          "image_url": "assets/images/bhopal-tragedy.jpg"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_003",
+          "title": "Birth of Dr. Rajendra Prasad",
+          "year": 1884,
+          "category": "Politics",
+          "short_summary": "Birth of India's first President and a key independence leader.",
+          "full_story": "A brilliant lawyer and a staunch follower of Gandhi, Prasad presided over the Constituent Assembly that drafted the Indian Constitution. He remains the only President to serve two full terms.",
+          "ai_insight": "The epitome of 'Simple Living, High Thinking' in the highest office of the land.",
+          "coordinates": { "lat": 25.8458, "lng": 84.3607 },
+          "location_name": "Zeradei, Bihar",
+          "tags": ["President", "Constitution", "Independence"],
+          "image_url": "assets/images/rajendra-prasad.jpg"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_004",
+          "title": "Indian Navy Day",
+          "year": 1971,
+          "category": "Military",
+          "short_summary": "Commemorating Operation Trident during the Indo-Pak War.",
+          "full_story": "The Indian Navy launched a daring pre-emptive strike on the Karachi harbor, sinking several Pakistani vessels. This day celebrates the victory and the role of the Navy in national security.",
+          "ai_insight": "The first major use of anti-ship missiles in the region, establishing India's maritime dominance.",
+          "coordinates": { "lat": 18.9218, "lng": 72.8347 },
+          "location_name": "Gateway of India, Mumbai",
+          "tags": ["Navy", "Warfare", "1971 War"],
+          "image_url": "assets/images/navy-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_005",
+          "title": "Passing of Sri Aurobindo",
+          "year": 1950,
+          "category": "Social Reform",
+          "short_summary": "Death of the revolutionary-turned-philosopher and yogi.",
+          "full_story": "Aurobindo Ghose was a radical leader in the early freedom struggle before moving to Pondicherry to establish an Ashram dedicated to 'Integral Yoga' and spiritual evolution.",
+          "ai_insight": "A journey from political liberation to the liberation of human consciousness.",
+          "coordinates": { "lat": 11.9443, "lng": 79.8358 },
+          "location_name": "Sri Aurobindo Ashram, Puducherry",
+          "tags": ["Spirituality", "Philosophy", "Yoga"],
+          "image_url": "assets/images/aurobindo.jpg"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_006",
+          "title": "Mahaparinirvan Diwas (Dr. B.R. Ambedkar)",
+          "year": 1956,
+          "category": "Social Reform",
+          "short_summary": "Passing of the architect of the Indian Constitution.",
+          "full_story": "Ambedkar died shortly after converting to Buddhism. Millions gather at Chaitya Bhoomi to honor the man who fought for the rights of the Dalits and the underprivileged.",
+          "ai_insight": "His legacy is the very document that binds the world's largest democracy together.",
+          "coordinates": { "lat": 19.0275, "lng": 72.8344 },
+          "location_name": "Chaitya Bhoomi, Mumbai",
+          "tags": ["Ambedkar", "Social Justice", "Constitution"],
+          "image_url": "assets/images/ambedkar-memorial.jpg"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_007",
+          "title": "Armed Forces Flag Day",
+          "year": 1949,
+          "category": "Military",
+          "short_summary": "A day dedicated to collecting funds for the welfare of the Indian Armed Forces personnel.",
+          "full_story": "Since 1949, this day has been observed to honor the martyrs and the men in uniform who valiantly fight on our borders to safeguard the country's honor.",
+          "ai_insight": "A bridge between the civilian population and the military, fostering a sense of collective responsibility for veterans.",
+          "coordinates": { "lat": 28.6129, "lng": 77.2295 },
+          "location_name": "National War Memorial, Delhi",
+          "tags": ["Military", "Welfare", "Honor"],
+          "image_url": "assets/images/flag-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_008",
+          "title": "First CDS Bipin Rawat Passes Away",
+          "year": 2021,
+          "category": "Military",
+          "short_summary": "Tragic helicopter crash involving India's first Chief of Defence Staff.",
+          "full_story": "General Bipin Rawat, his wife, and 12 others died in a crash in Coonoor. He was instrumental in the modernization and integration of the three services of the Indian Armed Forces.",
+          "ai_insight": "The loss of a strategic visionary who was reshaping India's unified theater commands.",
+          "coordinates": { "lat": 11.353, "lng": 76.7959 },
+          "location_name": "Coonoor, Tamil Nadu",
+          "tags": ["Military", "Defense", "CDS"],
+          "image_url": "assets/images/bipin-rawat.jpg"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_009",
+          "title": "First Meeting of Constituent Assembly",
+          "year": 1946,
+          "category": "Modern India",
+          "short_summary": "The assembly met for the first time to begin the work of drafting India's Constitution.",
+          "full_story": "Held in the Constitution Hall (now Central Hall of Parliament), the meeting was attended by 207 members. Dr. Sachchidananda Sinha was elected as the temporary President.",
+          "ai_insight": "The intellectual birth of a sovereign republic began in this room.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Parliament House, New Delhi",
+          "tags": ["Constitution", "Governance", "History"],
+          "image_url": "assets/images/const-assembly.jpg"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_010",
+          "title": "C. Rajagopalachari Birth",
+          "year": 1878,
+          "category": "Politics",
+          "short_summary": "Birth of the last Governor-General of India and Bharat Ratna recipient.",
+          "full_story": "'Rajaji' was a brilliant statesman, writer, and a key strategist for the Congress. He later founded the Swatantra Party to advocate for free-market policies.",
+          "ai_insight": "One of the earliest voices for economic liberalism in post-independence India.",
+          "coordinates": { "lat": 12.5281, "lng": 77.8883 },
+          "location_name": "Thorapalli, Tamil Nadu",
+          "tags": ["Statesman", "Politics", "Bharat Ratna"],
+          "image_url": "assets/images/rajagopalachari.jpg"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_011",
+          "title": "Birth of Subramania Bharati",
+          "year": 1882,
+          "category": "Art & Culture",
+          "short_summary": "Birth of the legendary Tamil poet and firebrand nationalist.",
+          "full_story": "Bharatiyar's poems inspired the masses in South India to join the freedom struggle. He was a pioneer of modern Tamil poetry and an advocate for women's rights.",
+          "ai_insight": "Literature as a catalyst for social reform and national awakening.",
+          "coordinates": { "lat": 8.9142, "lng": 77.986 },
+          "location_name": "Ettayapuram, Tamil Nadu",
+          "tags": ["Poetry", "Nationalism", "Tamil"],
+          "image_url": "assets/images/subramania-bharati.jpg"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_012",
+          "title": "Delhi becomes Capital of India",
+          "year": 1911,
+          "category": "Pre-Independence",
+          "short_summary": "King George V announced the shifting of the capital from Calcutta to Delhi.",
+          "full_story": "During the Delhi Durbar, the British decided to move the capital to its ancient seat of power. This led to the construction of Lutyens' Delhi.",
+          "ai_insight": "A strategic shift to a central location to better manage the vast Indian empire.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "Coronation Park, Delhi",
+          "tags": ["History", "Delhi", "British Raj"],
+          "image_url": "assets/images/delhi-capital.jpg"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_013",
+          "title": "Parliament Attack",
+          "year": 2001,
+          "category": "Security",
+          "short_summary": "A terrorist attack on the heart of Indian democracy.",
+          "full_story": "Five terrorists entered the Parliament complex but were neutralized by security forces before they could enter the building. The event led to a major standoff between India and Pakistan.",
+          "ai_insight": "A moment that redefined India's counter-terrorism posture and internal security protocols.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Parliament House, Delhi",
+          "tags": ["Security", "Terrorism", "History"],
+          "image_url": "assets/images/parliament-attack.jpg"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_014",
+          "title": "National Energy Conservation Day",
+          "year": 1991,
+          "category": "Science",
+          "short_summary": "Awareness day for the importance of energy efficiency and conservation.",
+          "full_story": "Organized by the Bureau of Energy Efficiency (BEE), this day highlights India's progress in renewable energy and green technology.",
+          "ai_insight": "Moving a billion people toward a sustainable and energy-independent future.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "Vigyan Bhawan, Delhi",
+          "tags": ["Energy", "Science", "Environment"],
+          "image_url": "assets/images/energy-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_015",
+          "title": "Passing of Sardar Vallabhbhai Patel",
+          "year": 1950,
+          "category": "Modern India",
+          "short_summary": "Death of the 'Iron Man' in Mumbai.",
+          "full_story": "Patel passed away in Birla House, Mumbai. His contribution to the integration of India remains his greatest legacy, earning him the title of the architect of modern India.",
+          "ai_insight": "His firm hand ensured that the partition didn't lead to further fragmentation of the subcontinent.",
+          "coordinates": { "lat": 18.9555, "lng": 72.8058 },
+          "location_name": "Birla House, Mumbai",
+          "tags": ["Sardar Patel", "History", "Unification"],
+          "image_url": "assets/images/patel-passing.jpg"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_016",
+          "title": "Vijay Diwas",
+          "year": 1971,
+          "category": "Military",
+          "short_summary": "India's victory over Pakistan leading to the creation of Bangladesh.",
+          "full_story": "General Niazi signed the Instrument of Surrender in Dhaka, marking the end of the 13-day war. Over 93,000 Pakistani soldiers surrendered to the Indian Army.",
+          "ai_insight": "One of the largest military surrenders in history and a defining moment for Indian military prestige.",
+          "coordinates": { "lat": 23.7231, "lng": 90.3929 },
+          "location_name": "Ramna Race Course, Dhaka (National War Memorial, Delhi)",
+          "tags": ["Military", "Victory", "1971 War"],
+          "image_url": "assets/images/vijay-diwas.jpg"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_017",
+          "title": "First Flight of LCA Tejas",
+          "year": 2001,
+          "category": "Science",
+          "short_summary": "India's indigenous Light Combat Aircraft took its first successful flight.",
+          "full_story": "Developed by HAL and ADA, Tejas proved India's capability to build fly-by-wire fighter jets. It was a major step toward 'Atmanirbhar' in defense aviation.",
+          "ai_insight": "The culmination of decades of aeronautical research and indigenous engineering.",
+          "coordinates": { "lat": 12.9611, "lng": 77.6644 },
+          "location_name": "HAL Airport, Bengaluru",
+          "tags": ["Aviation", "Defense", "Innovation"],
+          "image_url": "assets/images/tejas-flight.jpg"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_018",
+          "title": "Minorities Rights Day",
+          "year": 1992,
+          "category": "Modern India",
+          "short_summary": "Observance of rights for religious and ethnic minorities in India.",
+          "full_story": "Adopted by the UN and observed in India to ensure the protection and promotion of the identity of minority communities within the secular framework.",
+          "ai_insight": "Upholding the 'Unity in Diversity' promise embedded in the Constitution.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "National Commission for Minorities, Delhi",
+          "tags": ["Rights", "Governance", "Secularism"],
+          "image_url": "assets/images/minorities-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_019",
+          "title": "Goa Liberation Day",
+          "year": 1961,
+          "category": "Modern India",
+          "short_summary": "Goa was liberated from 451 years of Portuguese rule.",
+          "full_story": "Operation Vijay was launched by the Indian Armed Forces to liberate the territories of Goa, Daman, and Diu, ending the last vestiges of European colonialism in India.",
+          "ai_insight": "The final piece of the Indian geographic puzzle was set in place through swift military action.",
+          "coordinates": { "lat": 15.4909, "lng": 73.8278 },
+          "location_name": "Azad Maidan, Panaji",
+          "tags": ["Goa", "Liberation", "Military"],
+          "image_url": "assets/images/goa-liberation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_020",
+          "title": "Voting Age Lowered",
+          "year": 1988,
+          "category": "Governance",
+          "short_summary": "The 61st Amendment Act lowered the voting age from 21 to 18.",
+          "full_story": "The bill was passed on this day to involve the youth more actively in the democratic process, acknowledging their maturity and stake in the nation's future.",
+          "ai_insight": "Expanding the democratic base to include millions of young voices.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Parliament House, Delhi",
+          "tags": ["Democracy", "Election", "Youth"],
+          "image_url": "assets/images/voting-age.jpg"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_021",
+          "title": "Greatest Conjunction (Scientific Observation)",
+          "year": 2020,
+          "category": "Science",
+          "short_summary": "Jupiter and Saturn appeared closest in the sky in nearly 800 years.",
+          "full_story": "Indian observatories tracked this rare astronomical event, which was visible across the country. It sparked massive public interest in astronomy.",
+          "ai_insight": "Celestial mechanics providing a moment of shared wonder and scientific engagement.",
+          "coordinates": { "lat": 10.2319, "lng": 77.4652 },
+          "location_name": "Kodaikanal Solar Observatory, Tamil Nadu",
+          "tags": ["Astronomy", "Science", "Space"],
+          "image_url": "assets/images/conjunction.jpg"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_022",
+          "title": "National Mathematics Day",
+          "year": 1887,
+          "category": "Science",
+          "short_summary": "Birth of the mathematical genius Srinivasa Ramanujan.",
+          "full_story": "Born in Erode, Ramanujan was a self-taught mathematician who made extraordinary contributions to number theory, infinite series, and continued fractions.",
+          "ai_insight": "A man who saw 'God in equations,' his notebooks are still being decoded by mathematicians today.",
+          "coordinates": { "lat": 11.341, "lng": 77.7172 },
+          "location_name": "Ramanujan Museum, Kumbakonam",
+          "tags": ["Mathematics", "Ramanujan", "Science"],
+          "image_url": "assets/images/ramanujan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_023",
+          "title": "Kisan Diwas (Farmers' Day)",
+          "year": 1902,
+          "category": "Modern India",
+          "short_summary": "Birth of Chaudhary Charan Singh, the 5th Prime Minister and a champion of farmers.",
+          "full_story": "Known for his pro-farmer policies and land reforms, Singh's legacy is celebrated to honor the backbone of the Indian economy—the agricultural community.",
+          "ai_insight": "Celebrating the agrarian roots that sustain the world's most populous nation.",
+          "coordinates": { "lat": 28.9845, "lng": 77.7064 },
+          "location_name": "Meerut, Uttar Pradesh",
+          "tags": ["Agriculture", "Farmers", "Politics"],
+          "image_url": "assets/images/kisan-diwas.jpg"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_024",
+          "title": "National Consumer Rights Day",
+          "year": 1986,
+          "category": "Governance",
+          "short_summary": "The Consumer Protection Act received Presidential assent.",
+          "full_story": "This act empowered Indian consumers against unfair trade practices and provided a mechanism for grievance redressal (Consumer Courts).",
+          "ai_insight": "The legal foundation of 'Jago Grahak Jago' (Wake up, Consumer).",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "New Delhi",
+          "tags": ["Rights", "Law", "Governance"],
+          "image_url": "assets/images/consumer-rights.jpg"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_025",
+          "title": "Good Governance Day (Atal Bihari Vajpayee)",
+          "year": 1924,
+          "category": "Politics",
+          "short_summary": "Birth of the former PM and orator, celebrated for transparent administration.",
+          "full_story": "Vajpayee led India through the Pokhran nuclear tests and the Kargil war. He is also remembered for his poetic brilliance and the Golden Quadrilateral project.",
+          "ai_insight": "A leader who combined cultural depth with strategic military and economic decisiveness.",
+          "coordinates": { "lat": 26.2183, "lng": 78.1828 },
+          "location_name": "Gwalior, Madhya Pradesh",
+          "tags": ["Statesman", "Vajpayee", "Governance"],
+          "image_url": "assets/images/vajpayee-birth.jpg"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_026",
+          "title": "Veer Baal Diwas / Indian Ocean Tsunami",
+          "year": 2004,
+          "category": "Modern India",
+          "short_summary": "Commemorating the martyrdom of Sahibzadas and the 2004 Tsunami.",
+          "full_story": "This day honors the courage of Guru Gobind Singh's sons. It is also the anniversary of the 2004 Tsunami, which led to the creation of the Indian Tsunami Early Warning Centre.",
+          "ai_insight": "A day of profound sacrifice and a reminder of the raw power of nature.",
+          "coordinates": { "lat": 30.4439, "lng": 76.5925 },
+          "location_name": "Fatehgarh Sahib, Punjab",
+          "tags": ["History", "Sikhism", "Resilience"],
+          "image_url": "assets/images/veer-baal-diwas.jpg"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_027",
+          "title": "Jana Gana Mana First Sung",
+          "year": 1911,
+          "category": "Culture",
+          "short_summary": "The national anthem was first sung at the Calcutta session of the INC.",
+          "full_story": "Composed by Rabindranath Tagore, the song was later adopted as the National Anthem of India in 1950. It captures the geographical and cultural diversity of the nation.",
+          "ai_insight": "A lyrical map of the Indian identity that transcends regional boundaries.",
+          "coordinates": { "lat": 22.5726, "lng": 88.3639 },
+          "location_name": "Calcutta (Now Kolkata)",
+          "tags": ["Anthem", "Tagore", "History"],
+          "image_url": "assets/images/national-anthem.jpg"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_028",
+          "title": "Indian National Congress Founded",
+          "year": 1885,
+          "category": "Politics",
+          "short_summary": "The first session of the INC was held in Bombay.",
+          "full_story": "Founded by A.O. Hume and attended by 72 delegates, the INC became the primary vehicle for the Indian independence movement.",
+          "ai_insight": "The beginning of organized, pan-Indian political consciousness.",
+          "coordinates": { "lat": 18.9317, "lng": 72.8344 },
+          "location_name": "Gokuldas Tejpal Sanskrit College, Mumbai",
+          "tags": ["History", "INC", "Independence"],
+          "image_url": "assets/images/congress-foundation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_029",
+          "title": "Vikram Sarabhai Passes Away",
+          "year": 1971,
+          "category": "Science",
+          "short_summary": "Death of the father of the Indian Space Program.",
+          "full_story": "Sarabhai's vision led to the establishment of ISRO. He believed that even a developing nation should reach for the stars for the benefit of its people.",
+          "ai_insight": "A visionary who proved that space research is a necessity, not a luxury, for a modern nation.",
+          "coordinates": { "lat": 8.5241, "lng": 76.9366 },
+          "location_name": "Thiruvananthapuram, Kerala",
+          "tags": ["Science", "ISRO", "Legacy"],
+          "image_url": "assets/images/sarabhai-memorial.jpg"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_030",
+          "title": "First Tricolour Hoisted in Port Blair",
+          "year": 1943,
+          "category": "Pre-Independence",
+          "short_summary": "Netaji Subhas Chandra Bose hoisted the national flag in the Andaman Islands.",
+          "full_story": "Bose declared the islands as the first Indian territory to be liberated from British rule, renaming them 'Shaheed' and 'Swaraj' islands.",
+          "ai_insight": "A symbolic liberation that pre-dated the formal independence of the mainland.",
+          "coordinates": { "lat": 11.6675, "lng": 92.735 },
+          "location_name": "Cellular Jail, Port Blair",
+          "tags": ["Netaji", "Independence", "Andaman"],
+          "image_url": "assets/images/netaji-flag.jpg"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "month": "December",
+      "events": [
+        {
+          "id": "dec_031",
+          "title": "East India Company Chartered",
+          "year": 1600,
+          "category": "Pre-Independence",
+          "short_summary": "Queen Elizabeth I granted a royal charter to the East India Company.",
+          "full_story": "What began as a small trading venture eventually transformed into a political power that ruled the subcontinent for nearly two centuries.",
+          "ai_insight": "A moment that set the stage for the colonial era and the subsequent struggle for sovereignty.",
+          "coordinates": { "lat": 18.9389, "lng": 72.8353 },
+          "location_name": "Fort, Mumbai (Historical Site of EIC Trade)",
+          "tags": ["History", "British Raj", "Trade"],
+          "image_url": "assets/images/eic-charter.jpg"
+        }
+      ]
+    }
+  ]
+}

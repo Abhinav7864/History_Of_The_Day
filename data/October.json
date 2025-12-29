@@ -1,0 +1,593 @@
+{
+  "october": [
+    {
+      "day": 1,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_001",
+          "title": "Formation of Andhra State",
+          "year": 1953,
+          "category": "Modern India",
+          "short_summary": "The first state in India created on a linguistic basis.",
+          "full_story": "Following the sacrifice of Potti Sriramulu, the Telugu-speaking areas of Madras State were carved out to form Andhra State. This set the precedent for the later reorganization of Indian states based on language.",
+          "ai_insight": "A landmark moment that proved linguistic identity is a core pillar of Indian federalism.",
+          "coordinates": { "lat": 15.8281, "lng": 78.0373 },
+          "location_name": "Kurnool, Andhra Pradesh",
+          "tags": ["Governance", "Linguistic States", "History"],
+          "image_url": "assets/images/andhra-formation.jpg"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_002",
+          "title": "Gandhi Jayanti",
+          "year": 1869,
+          "category": "Pre-Independence",
+          "short_summary": "Birth of Mahatma Gandhi, leader of the Indian independence movement.",
+          "full_story": "Born in Porbandar, Mohandas Karamchand Gandhi pioneered the philosophy of Satyagraha—resistance to tyranny through mass civil disobedience firmly founded upon ahimsa (non-violence).",
+          "ai_insight": "A global shift in political strategy: proving that moral force can dismantle a physical empire.",
+          "coordinates": { "lat": 21.6417, "lng": 69.6093 },
+          "location_name": "Kirti Mandir, Porbandar",
+          "tags": ["Non-violence", "Independence", "Gandhi"],
+          "image_url": "assets/images/gandhi-birth.jpg"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_003",
+          "title": "Inauguration of Atal Tunnel",
+          "year": 2020,
+          "category": "Infrastructure",
+          "short_summary": "World's longest highway tunnel above 10,000 feet.",
+          "full_story": "Named after former PM Atal Bihari Vajpayee, this 9.02 km tunnel connects Manali to Lahaul-Spiti valley throughout the year, reducing travel time significantly and boosting strategic mobility.",
+          "ai_insight": "Engineering overcoming geography to ensure connectivity in the most hostile terrains.",
+          "coordinates": { "lat": 32.3617, "lng": 77.1325 },
+          "location_name": "Rohtang, Himachal Pradesh",
+          "tags": ["Engineering", "Defense", "Infrastructure"],
+          "image_url": "assets/images/atal-tunnel.jpg"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_004",
+          "title": "Birth of Shyamji Krishna Varma",
+          "year": 1857,
+          "category": "Pre-Independence",
+          "short_summary": "Founder of the India House in London.",
+          "full_story": "A revolutionary who supported the cause of Indian self-rule from abroad. He founded the Indian Home Rule Society and India House, which became a hub for Indian students and revolutionaries in the UK.",
+          "ai_insight": "The internationalization of the Indian struggle began in the lecture halls of London.",
+          "coordinates": { "lat": 23.2384, "lng": 69.6669 },
+          "location_name": "Mandvi, Kutch",
+          "tags": ["Revolutionary", "Global", "History"],
+          "image_url": "assets/images/shyamji-varma.jpg"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_005",
+          "title": "National Aquatic Animal Declaration",
+          "year": 2009,
+          "category": "Environment",
+          "short_summary": "The Ganges River Dolphin was declared the National Aquatic Animal.",
+          "full_story": "To raise awareness for the conservation of this 'living fossil,' the Indian government granted it protected status. It serves as an indicator of the health of the entire Ganga ecosystem.",
+          "ai_insight": "Biodiversity protection as a cultural and ecological necessity for the subcontinent's rivers.",
+          "coordinates": { "lat": 25.6127, "lng": 85.1376 },
+          "location_name": "Patna (Ganges River), Bihar",
+          "tags": ["Ecology", "Conservation", "Ganga"],
+          "image_url": "assets/images/river-dolphin.jpg"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_006",
+          "title": "V.K. Krishna Menon Birth",
+          "year": 1896,
+          "category": "Politics",
+          "short_summary": "India's representative to the UN and former Defense Minister.",
+          "full_story": "Known for his marathon 8-hour speech at the UN Security Council regarding Kashmir, Menon was a fiery orator and a key architect of the Non-Aligned Movement (NAM).",
+          "ai_insight": "Intellectual diplomacy was India's primary tool for carving a path between the Cold War superpowers.",
+          "coordinates": { "lat": 11.2588, "lng": 75.7804 },
+          "location_name": "Kozhikode, Kerala",
+          "tags": ["Diplomacy", "UN", "Politics"],
+          "image_url": "assets/images/krishna-menon.jpg"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_007",
+          "title": "Rapid Action Force (RAF) Formed",
+          "year": 1992,
+          "category": "Security",
+          "short_summary": "Specialized wing of the CRPF for riot control and internal security.",
+          "full_story": "Designed to handle communal riots and civil unrest with minimal force, the RAF is a 'Zero Response' force that maintains the secular and peaceful fabric of urban India.",
+          "ai_insight": "Internal stability requires specialized, sensitive policing to manage social complexities.",
+          "coordinates": { "lat": 28.6139, "lng": 77.209 },
+          "location_name": "New Delhi",
+          "tags": ["Internal Security", "CRPF", "Governance"],
+          "image_url": "assets/images/raf-india.jpg"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_008",
+          "title": "Indian Air Force Day",
+          "year": 1932,
+          "category": "Military",
+          "short_summary": "The IAF was officially established as an auxiliary air force of the British Empire.",
+          "full_story": "From its humble beginnings with Westland Wapiti aircraft, the IAF has grown into the fourth largest air force in the world, playing decisive roles in 1947, 1965, and 1971.",
+          "ai_insight": "Air superiority evolved from a colonial support wing to a pillar of national sovereignty.",
+          "coordinates": { "lat": 28.5888, "lng": 77.2241 },
+          "location_name": "Air Force Station Palam, Delhi",
+          "tags": ["IAF", "Defense", "Aviation"],
+          "image_url": "assets/images/iaf-day.jpg"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_009",
+          "title": "World Post Day (Indian Context)",
+          "year": 1854,
+          "category": "Infrastructure",
+          "short_summary": "The beginning of the modern postal system in India.",
+          "full_story": "The first postage stamp valid across India was issued on this day. India Post has since grown into the most widely distributed postal network in the world.",
+          "ai_insight": "Before the internet, the Post Office was the central nervous system of Indian communication and banking.",
+          "coordinates": { "lat": 22.5697, "lng": 88.3475 },
+          "location_name": "General Post Office, Kolkata",
+          "tags": ["Post", "Communication", "Heritage"],
+          "image_url": "assets/images/india-post.jpg"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_010",
+          "title": "Ratan Tata Birth",
+          "year": 1937,
+          "category": "Business",
+          "short_summary": "Birth of the industrialist and philanthropist who globalized the Tata Group.",
+          "full_story": "Under his leadership, Tata Motors acquired Jaguar Land Rover and Tata Steel acquired Corus. He is celebrated for his ethics and commitment to nation-building through the Tata Trusts.",
+          "ai_insight": "Proving that capitalism can coexist with high moral standards and public welfare.",
+          "coordinates": { "lat": 18.9248, "lng": 72.8315 },
+          "location_name": "Bombay House, Mumbai",
+          "tags": ["Industrialist", "Tata", "Business"],
+          "image_url": "assets/images/ratan-tata.jpg"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_011",
+          "title": "Jayaprakash Narayan (JP) Birth",
+          "year": 1902,
+          "category": "Politics",
+          "short_summary": "The hero of the 'Total Revolution' and Quit India movement.",
+          "full_story": "JP was a major political theorist and activist. In the 1970s, he led the movement against the Emergency, calling for a 'Total Revolution' to safeguard democracy.",
+          "ai_insight": "A reminder that the power of the ballot and peaceful protest is the ultimate check on authority.",
+          "coordinates": { "lat": 25.7797, "lng": 84.7431 },
+          "location_name": "Sitab Diara, Bihar",
+          "tags": ["Democracy", "Socialism", "Revolution"],
+          "image_url": "assets/images/jp-narayan.jpg"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_012",
+          "title": "RTI Act Comes into Force",
+          "year": 2005,
+          "category": "Governance",
+          "short_summary": "The Right to Information Act empowered citizens to question the government.",
+          "full_story": "This historic law replaced the Freedom of Information Act, 2002. It made transparency a legal obligation for public authorities, fundamentally changing the citizen-state relationship.",
+          "ai_insight": "Transparency is the best antidote to the corruption of power.",
+          "coordinates": { "lat": 28.6172, "lng": 77.2081 },
+          "location_name": "Central Information Commission, Delhi",
+          "tags": ["Governance", "Transparency", "Law"],
+          "image_url": "assets/images/rti-act.jpg"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_013",
+          "title": "Sister Nivedita Passes Away",
+          "year": 1911,
+          "category": "Social Reform",
+          "short_summary": "The Irish disciple of Swami Vivekananda who served India.",
+          "full_story": "Margaret Noble (Sister Nivedita) dedicated her life to educating girls in Kolkata and supporting the independence movement. She was a bridge between the East and the West.",
+          "ai_insight": "Service to humanity knows no borders; she became more Indian than many born on the soil.",
+          "coordinates": { "lat": 27.036, "lng": 88.2627 },
+          "location_name": "Darjeeling, West Bengal",
+          "tags": ["Spirituality", "Education", "Social Service"],
+          "image_url": "assets/images/sister-nivedita.jpg"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_014",
+          "title": "Ambedkar Embraces Buddhism",
+          "year": 1956,
+          "category": "Social Reform",
+          "short_summary": "Dr. B.R. Ambedkar converted to Buddhism with 3.6 lakh followers.",
+          "full_story": "At Deekshabhoomi, Ambedkar renounced Hinduism to lead the Dalit movement away from the caste system. This event marked a massive social and religious shift in modern India.",
+          "ai_insight": "A spiritual revolution aimed at reclaiming human dignity and equality.",
+          "coordinates": { "lat": 21.1274, "lng": 79.0667 },
+          "location_name": "Deekshabhoomi, Nagpur",
+          "tags": ["Ambedkar", "Buddhism", "Social Equality"],
+          "image_url": "assets/images/deekshabhoomi.jpg"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_015",
+          "title": "Birth of Dr. A.P.J. Abdul Kalam",
+          "year": 1931,
+          "category": "Science",
+          "short_summary": "The 'People's President' and 'Missile Man of India'.",
+          "full_story": "A scientist who led India's missile program (Agni and Prithvi) and served as the 11th President. He was an icon for the youth, emphasizing the power of dreams and technology.",
+          "ai_insight": "The fusion of scientific excellence and humility creates a leader who inspires generations.",
+          "coordinates": { "lat": 9.2876, "lng": 79.3129 },
+          "location_name": "Rameswaram, Tamil Nadu",
+          "tags": ["Science", "President", "Youth Icon"],
+          "image_url": "assets/images/apj-kalam.jpg"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_016",
+          "title": "Partition of Bengal Effective",
+          "year": 1905,
+          "category": "Pre-Independence",
+          "short_summary": "Lord Curzon's attempt to divide Bengal sparked national resistance.",
+          "full_story": "The partition was ostensibly for administrative convenience but actually aimed to weaken the nationalist movement. It led to the Swadeshi movement and the concept of 'Vande Mataram'.",
+          "ai_insight": "A classic 'divide and rule' tactic that backfired, uniting India like never before.",
+          "coordinates": { "lat": 22.5726, "lng": 88.3639 },
+          "location_name": "Kolkata, West Bengal",
+          "tags": ["British Raj", "Swadeshi", "Nationalism"],
+          "image_url": "assets/images/bengal-partition.jpg"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_017",
+          "title": "Sir Syed Ahmad Khan Birth",
+          "year": 1817,
+          "category": "Social Reform",
+          "short_summary": "Founder of Aligarh Muslim University.",
+          "full_story": "A pragmatist who emphasized modern scientific education for Muslims. He founded the Muhammadan Anglo-Oriental College, which became AMU, shaping the intellectual future of the community.",
+          "ai_insight": "Educational reform as the primary vehicle for social and political survival.",
+          "coordinates": { "lat": 27.9135, "lng": 78.0782 },
+          "location_name": "AMU, Aligarh",
+          "tags": ["Education", "Social Reform", "AMU"],
+          "image_url": "assets/images/syed-ahmad.jpg"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_018",
+          "title": "Om Puri Birth",
+          "year": 1950,
+          "category": "Art & Culture",
+          "short_summary": "Legendary actor of Parallel Cinema.",
+          "full_story": "A graduate of FTII and NSD, Om Puri brought raw realism to Indian cinema through films like 'Ardh Satya' and 'Aakrosh,' bridging the gap between mainstream and art films.",
+          "ai_insight": "Cinema as a mirror to the gritty, unvarnished truths of Indian society.",
+          "coordinates": { "lat": 30.3752, "lng": 76.7821 },
+          "location_name": "Ambala, Haryana",
+          "tags": ["Cinema", "Art", "Drama"],
+          "image_url": "assets/images/om-puri.jpg"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_019",
+          "title": "Subrahmanyan Chandrasekhar Birth",
+          "year": 1910,
+          "category": "Science",
+          "short_summary": "Nobel laureate known for the 'Chandrasekhar Limit'.",
+          "full_story": "An astrophysicist whose work on the evolution of massive stars laid the foundation for modern cosmology. He showed that there is a maximum mass for a stable white dwarf star.",
+          "ai_insight": "Indian mathematical genius reaching into the farthest depths of the universe.",
+          "coordinates": { "lat": 31.1048, "lng": 77.1734 },
+          "location_name": "Shimla, Himachal Pradesh",
+          "tags": ["Physics", "Nobel Prize", "Space"],
+          "image_url": "assets/images/chandrasekhar-limit.jpg"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_020",
+          "title": "Indo-China War Begins",
+          "year": 1962,
+          "category": "Military",
+          "short_summary": "Chinese forces launched simultaneous offensives in Ladakh and NEFA.",
+          "full_story": "A conflict that significantly impacted India's foreign policy and defense preparedness. It led to a restructuring of the Indian Army and a shift away from pure non-alignment.",
+          "ai_insight": "A hard lesson in the reality of border geopolitics and the necessity of military modernization.",
+          "coordinates": { "lat": 27.4924, "lng": 91.8971 },
+          "location_name": "Tawang, Arunachal Pradesh",
+          "tags": ["War", "Border Security", "History"],
+          "image_url": "assets/images/indo-china-war.jpg"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_021",
+          "title": "Provisional Government of Free India",
+          "year": 1943,
+          "category": "Pre-Independence",
+          "short_summary": "Netaji Subhas Chandra Bose announced the Azad Hind Government.",
+          "full_story": "Formed in Singapore, the 'Arzi Hukumat-e-Azad Hind' was recognized by several nations and gave the INA a formal status in its struggle to liberate India from British rule.",
+          "ai_insight": "A government-in-exile that challenged the legitimacy of the British Crown's rule in India.",
+          "coordinates": { "lat": 28.6129, "lng": 77.2295 },
+          "location_name": "Red Fort (INA Trials Site), Delhi",
+          "tags": ["Netaji", "INA", "Revolutionary"],
+          "image_url": "assets/images/azad-hind.jpg"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_022",
+          "title": "Chandrayaan-1 Launch",
+          "year": 2008,
+          "category": "Science",
+          "short_summary": "India's first mission to the Moon.",
+          "full_story": "The mission was a major boost to India's space program. Its most significant discovery was the presence of water molecules on the lunar surface, changing global lunar science.",
+          "ai_insight": "Data from this mission rewritten the textbooks on the Moon's chemical composition.",
+          "coordinates": { "lat": 13.72, "lng": 80.23 },
+          "location_name": "Satish Dhawan Space Centre, Sriharikota",
+          "tags": ["Space", "ISRO", "Moon"],
+          "image_url": "assets/images/chandrayaan-1.jpg"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_023",
+          "title": "Birth of Kittur Chennamma",
+          "year": 1778,
+          "category": "Pre-Independence",
+          "short_summary": "The Queen of Kittur who led an armed rebellion against the British.",
+          "full_story": "Decades before the 1857 revolt, Rani Chennamma fought the 'Doctrine of Lapse' and led her forces against the East India Company to protect her kingdom's independence.",
+          "ai_insight": "Indigenous resistance was fierce and frequent long before the organized national movement.",
+          "coordinates": { "lat": 15.6022, "lng": 74.7865 },
+          "location_name": "Kittur Fort, Karnataka",
+          "tags": ["Warrior", "Karnataka", "Freedom Fighter"],
+          "image_url": "assets/images/kittur-chennamma.jpg"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_024",
+          "title": "ITBP Established",
+          "year": 1962,
+          "category": "Security",
+          "short_summary": "Indo-Tibetan Border Police was raised following the 1962 war.",
+          "full_story": "Specifically trained to operate in high-altitude conditions, the ITBP guards the 3,488 km border with China, from Karakoram Pass in Ladakh to Jachep La in Arunachal Pradesh.",
+          "ai_insight": "Guardians of the peaks, operating where oxygen is scarce but duty is paramount.",
+          "coordinates": { "lat": 34.1526, "lng": 77.5771 },
+          "location_name": "Leh, Ladakh",
+          "tags": ["Security", "Border", "ITBP"],
+          "image_url": "assets/images/itbp-guard.jpg"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_025",
+          "title": "First General Election Begins",
+          "year": 1951,
+          "category": "Modern India",
+          "short_summary": "India's first exercise in universal adult franchise.",
+          "full_story": "Despite high levels of illiteracy and poverty, the first elections were a massive success, proving to the world that democracy could thrive in a developing nation.",
+          "ai_insight": "The greatest gamble in democratic history paid off, cementing the voice of the common citizen.",
+          "coordinates": { "lat": 31.621, "lng": 77.747 },
+          "location_name": "Chini, Himachal Pradesh (First Vote Cast)",
+          "tags": ["Democracy", "Election", "History"],
+          "image_url": "assets/images/first-election.jpg"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_026",
+          "title": "Instrument of Accession (J&K)",
+          "year": 1947,
+          "category": "Modern India",
+          "short_summary": "Maharaja Hari Singh signed the agreement to join the Union of India.",
+          "full_story": "Following an invasion by tribal militias supported by Pakistan, the Maharaja of Jammu & Kashmir sought India's help and formally integrated the state with the Indian Union.",
+          "ai_insight": "A complex legal and military turning point that defines modern South Asian geopolitics.",
+          "coordinates": { "lat": 32.7266, "lng": 74.857 },
+          "location_name": "Hari Niwas Palace, Jammu",
+          "tags": ["Unification", "Politics", "Jammu & Kashmir"],
+          "image_url": "assets/images/accession-jk.jpg"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_027",
+          "title": "Infantry Day",
+          "year": 1947,
+          "category": "Military",
+          "short_summary": "Commemorating the first induction of Indian troops in independent India.",
+          "full_story": "Indian Army infantrymen landed at Srinagar airfield to repel the invaders, marking the first military operation of independent India to protect its territory.",
+          "ai_insight": "The 'Queen of the Battle'—the infantry—remains the final arbiter of victory on the ground.",
+          "coordinates": { "lat": 33.987, "lng": 74.7741 },
+          "location_name": "Srinagar Airport, J&K",
+          "tags": ["Military", "Army", "Infantry Day"],
+          "image_url": "assets/images/infantry-landing.jpg"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_028",
+          "title": "Establishment of Indian School of Mines",
+          "year": 1926,
+          "category": "Science",
+          "short_summary": "The precursor to IIT (ISM) Dhanbad was opened.",
+          "full_story": "Modeled after the Royal School of Mines in London, it was established to provide technical education in mining and geology, fueling India's industrial resource extraction.",
+          "ai_insight": "Technical expertise in the depths of the earth was crucial for the industrial rise of the nation.",
+          "coordinates": { "lat": 23.8143, "lng": 86.4412 },
+          "location_name": "Dhanbad, Jharkhand",
+          "tags": ["Engineering", "Mining", "Education"],
+          "image_url": "assets/images/ism-dhanbad.jpg"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_029",
+          "title": "Odisha Super Cyclone",
+          "year": 1999,
+          "category": "Disaster Management",
+          "short_summary": "The most intense tropical cyclone ever recorded in the North Indian Ocean.",
+          "full_story": "With wind speeds of 260 km/h, it caused immense destruction. The tragedy led to a complete overhaul of India's disaster management systems and the formation of the NDRF.",
+          "ai_insight": "From this tragedy, India built one of the world's most effective early warning and evacuation protocols.",
+          "coordinates": { "lat": 20.2724, "lng": 86.6591 },
+          "location_name": "Paradip, Odisha",
+          "tags": ["Nature", "Disaster Management", "Resilience"],
+          "image_url": "assets/images/odisha-cyclone.jpg"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_030",
+          "title": "Homi J. Bhabha Birth",
+          "year": 1909,
+          "category": "Science",
+          "short_summary": "The father of the Indian nuclear program.",
+          "full_story": "A visionary physicist who founded TIFR and the Atomic Energy Commission. He envisioned a three-stage nuclear power program to make India energy independent using thorium.",
+          "ai_insight": "A leader who understood that true independence in the 20th century required nuclear capability.",
+          "coordinates": { "lat": 18.9067, "lng": 72.8147 },
+          "location_name": "BARC, Mumbai",
+          "tags": ["Science", "Nuclear", "Innovation"],
+          "image_url": "assets/images/homi-bhabha.jpg"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "month": "October",
+      "events": [
+        {
+          "id": "oct_031",
+          "title": "National Unity Day (Rashtriya Ekta Diwas)",
+          "year": 1875,
+          "category": "Modern India",
+          "short_summary": "Birth of Sardar Vallabhbhai Patel, the 'Iron Man of India'.",
+          "full_story": "As the first Home Minister, Sardar Patel integrated 562 princely states into the Indian Union. His birthday is celebrated to reinforce our commitment to strengthen the security and unity of the nation.",
+          "ai_insight": "Without Patel’s strategic resolve, the map of India would have been a jigsaw puzzle of fragmented states.",
+          "coordinates": { "lat": 21.838, "lng": 73.7191 },
+          "location_name": "Statue of Unity, Kevadia",
+          "tags": ["Unification", "Sardar Patel", "Unity"],
+          "image_url": "assets/images/statue-unity.jpg"
+        }
+      ]
+    }
+  ]
+}
