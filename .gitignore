@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Agent coordination (tracked)
+.agent/
+
+# Misc folder
+misc/
+
+# Environment variables
+.env
