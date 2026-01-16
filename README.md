@@ -1,16 +1,69 @@
-# React + Vite
+# 📜 History of the Day
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed React web application that presents historical events in a vintage, newspaper-inspired aesthetic. Explore fascinating moments from history based on specific dates, navigate through an interactive map of historical sites, and discover the chronicles of the past.
 
-Currently, two official plugins are available:
+![Built with React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?logo=tailwindcss)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🏠 **Home Page**
+- Stunning vintage "poster" design with gold-accented typography
+- Displays **Today's Event** — a featured historical event for the current date
+- Quick navigation to Explore Timeline and Map views
 
-## Expanding the ESLint configuration
+### 📅 **Explore / Chronicles Page**
+- Browse historical events by selecting any date
+- Interactive date selector with month and day picker
+- Events displayed in elegant vintage-styled cards
+- Search through the archive of history
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🗺️ **Map Page**
+- Interactive map view of historical sites
+- Filter sites by category
+- Search functionality for quick discovery
+- Detailed information cards for each location
+- Seamless navigation between timeline and map views
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Node.js** (v18 or higher recommended)
+- **npm** or **yarn**
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd History_Of_The_Day
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser** and navigate to the local URL shown in the terminal (typically `http://localhost:5173`)
+
+---
+
+## ️ Tech Stack
+
+- **React 19** — UI library
+- **Vite** — Fast build tool & dev server
+- **React Router DOM** — Client-side routing
+- **TailwindCSS** — Utility-first CSS framework
+- **Lucide React** — Icon library
+- **ESLint** — Code linting

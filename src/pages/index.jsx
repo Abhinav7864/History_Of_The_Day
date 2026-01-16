@@ -22,7 +22,7 @@ export default function HomePage() {
 	return (
 		<div className="relative min-h-screen flex items-center justify-center p-4 md:p-8">
 			{/* Central "Poster" Container */}
-			<div className="relative w-full max-w-5xl bg-ink text-paper p-1 shadow-2xl skew-x-1 transform transition-transform duration-700 hover:skew-x-0">
+			<div className="relative w-full max-w-7xl bg-ink text-paper p-1 shadow-2xl">
 
 				{/* The Blackboard Frame */}
 				<div className="border-[16px] border-gold-dipped p-8 md:p-12 relative overflow-hidden">
@@ -47,7 +47,7 @@ export default function HomePage() {
 						<div className="w-24 h-1 bg-gold opacity-50 my-6"></div>
 
 						{/* Description */}
-						<p className="max-w-xl text-lg md:text-xl font-body italic text-paper-dark leading-relaxed">
+						<p className="text-lg md:text-xl font-body italic text-paper-dark leading-relaxed">
 							"Unearth the forgotten chronicles of the past. A journey through time, etched in digital stone."
 						</p>
 
@@ -62,7 +62,7 @@ export default function HomePage() {
 						<div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-lg mt-8">
 							<button
 								onClick={() => navigate('/explore')}
-								className="group relative px-8 py-4 bg-paper text-ink font-display uppercase tracking-widest border-2 border-transparent hover:border-gold transition-all duration-300 transform hover:-translate-y-1"
+								className="group relative px-6 py-3 bg-paper text-ink font-display uppercase tracking-widest border-2 border-transparent hover:border-gold transition-all duration-300"
 							>
 								<span className="relative z-10">Explore Timeline</span>
 								<div className="absolute inset-0 bg-gold transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300 z-0"></div>
@@ -70,7 +70,7 @@ export default function HomePage() {
 
 							<button
 								onClick={() => navigate('/map')}
-								className="group relative px-8 py-4 bg-transparent text-gold border-2 border-gold font-display uppercase tracking-widest hover:text-ink transition-all duration-300 transform hover:-translate-y-1"
+								className="group relative px-6 py-3 bg-transparent text-gold border-2 border-gold font-display uppercase tracking-widest hover:text-ink transition-all duration-300"
 							>
 								<span className="relative z-10 group-hover:text-ink transition-colors">Navigate City</span>
 								<div className="absolute inset-0 bg-gold transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-300 z-0"></div>
@@ -79,21 +79,10 @@ export default function HomePage() {
 
 					</div>
 
-					{/* Background Image Blend */}
-					<div className="absolute inset-0 z-0 opacity-10 mix-blend-overlay">
-						<img
-							src="https://images.unsplash.com/photo-1585325701165-351af916e581?q=80&w=2000&auto=format&fit=crop"
-							alt="Vintage Background"
-							className="w-full h-full object-cover grayscale contrast-125"
-						/>
-					</div>
+					{/* Background Gradient Blend */}
+					<div className="absolute inset-0 z-0 bg-[radial-gradient(circle_at_center,rgba(232,220,196,0.1)_0%,transparent_70%)] pointer-events-none"></div>
 
 				</div>
-
-				{/* Outer Grunge Elements */}
-				<div className="absolute -top-6 -left-6 text-ink opacity-10 text-9xl font-display -rotate-12 pointer-events-none select-none">19</div>
-				<div className="absolute -bottom-12 -right-12 text-ink opacity-10 text-9xl font-display rotate-12 pointer-events-none select-none">84</div>
-
 			</div>
 		</div>
 	);
