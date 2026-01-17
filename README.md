@@ -1,69 +1,99 @@
-# 📜 History of the Day
+# History of the Day
 
-A beautifully designed React web application that presents historical events in a vintage, newspaper-inspired aesthetic. Explore fascinating moments from history based on specific dates, navigate through an interactive map of historical sites, and discover the chronicles of the past.
+A React web application presenting historical events with a vintage, newspaper-inspired design. Users can explore events based on specific dates, navigate an interactive map of historical sites, and discover chronicles of Indian history.
 
-![Built with React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)
-![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?logo=tailwindcss)
+## Features
 
----
+### Home Page
+- Vintage poster design with gold-accented typography
+- Displays featured historical event for the current date
+- Quick navigation to Timeline and Map views
 
-## ✨ Features
-
-### 🏠 **Home Page**
-- Stunning vintage "poster" design with gold-accented typography
-- Displays **Today's Event** — a featured historical event for the current date
-- Quick navigation to Explore Timeline and Map views
-
-### 📅 **Explore / Chronicles Page**
+### Explore / Chronicles Page
 - Browse historical events by selecting any date
 - Interactive date selector with month and day picker
-- Events displayed in elegant vintage-styled cards
-- Search through the archive of history
+- Events displayed in vintage-styled cards
+- Search functionality for discovering events
 
-### 🗺️ **Map Page**
-- Interactive map view of historical sites
+### Map Page
+- Google Maps integration with custom vintage styling
+- Interactive markers for historical sites across India
 - Filter sites by category
-- Search functionality for quick discovery
-- Detailed information cards for each location
-- Seamless navigation between timeline and map views
+- Detailed information panel for each location
 
----
+## Technology Stack
 
-## 🚀 Getting Started
+- React 19
+- Vite 7
+- React Router DOM
+- TailwindCSS 3
+- Google Maps API
+- Lucide React (icons)
 
-### Prerequisites
+## Prerequisites
 
-- **Node.js** (v18 or higher recommended)
-- **npm** or **yarn**
+- Node.js v18 or higher
+- npm or yarn
+- Google Maps API key
 
-### Installation
+## Installation
 
-1. **Clone the repository**
+1. Clone the repository:
    ```bash
    git clone <repository-url>
    cd History_Of_The_Day
    ```
 
-2. **Install dependencies**
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-3. **Start the development server**
+3. Configure environment variables:
+   ```bash
+   cp .env.example .env
+   ```
+   Add your Google Maps API key to the `.env` file.
+
+4. Start the development server:
    ```bash
    npm run dev
    ```
 
-4. **Open your browser** and navigate to the local URL shown in the terminal (typically `http://localhost:5173`)
+5. Open your browser and navigate to the local URL shown in the terminal (typically `http://localhost:5173`).
 
----
+## Environment Variables
 
-## ️ Tech Stack
+| Variable | Description |
+|----------|-------------|
+| `VITE_GOOGLE_MAPS_API_KEY` | Google Maps JavaScript API key |
 
-- **React 19** — UI library
-- **Vite** — Fast build tool & dev server
-- **React Router DOM** — Client-side routing
-- **TailwindCSS** — Utility-first CSS framework
-- **Lucide React** — Icon library
-- **ESLint** — Code linting
+## Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+│   ├── common/          # Shared components (Navbar, etc.)
+│   ├── home/            # Home page components
+│   ├── explore/         # Explore/Timeline components
+│   └── map/             # Map page components
+├── data/                # Static data files
+│   └── history/         # Historical events data (JSON)
+├── pages/               # Page-level components
+├── services/            # Data fetching and business logic
+├── styles/              # Global styles and CSS
+└── utils/               # Utility functions
+```
+
+## Scripts
+
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build for production |
+| `npm run preview` | Preview production build |
+| `npm run lint` | Run ESLint |
+
+## License
+
+This project is proprietary software. All rights reserved.

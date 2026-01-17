@@ -49,7 +49,7 @@ export default function MapPage() {
 	};
 
 	return (
-		<div className="h-screen flex overflow-hidden">
+		<div className="h-[calc(100vh-24px)] flex overflow-hidden">
 			{/* Sidebar */}
 			<div className="w-80 lg:w-96 bg-ink flex flex-col border-r-4 border-gold-dipped shrink-0">
 				{/* Sidebar Header */}
@@ -122,7 +122,7 @@ export default function MapPage() {
 			{/* Map Area */}
 			<div className="flex-1 relative bg-ink-light">
 				<MapView
-					sites={filteredSites.slice(0, 6)} // Only show 6 pins max
+					sites={filteredSites}
 					selectedId={selectedSite?.id}
 					onSelect={handleSiteSelect}
 				/>
