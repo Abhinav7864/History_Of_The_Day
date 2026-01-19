@@ -24,10 +24,10 @@ const defaultCenter = {
  * - s9-8.25 9-15: Mirror the bottom point path
  * - c0-4.97-4.03-9-9-9: Complete the top curve
  * - zm0 12.75: Move to inner circle starting point
- * - c-2.07 0-3.75-1.68-3.75-3.75: Draw the inner circle (top half)
- * - S9.93 5.25 12 5.25: Continue inner circle curve
- * - s3.75 1.68 3.75 3.75: Complete inner circle curve
- * - -1.68 3.75-3.75 3.75z: Close the inner circle
+ * - c-2.07 0-3.75-1.68-3.75-3.75: Draw the inner circle (left curve, cubic bezier)
+ * - S9.93 5.25 12 5.25: Smooth curve to continue inner circle (right curve)
+ * - s3.75 1.68 3.75 3.75: Smooth curve to complete inner circle
+ * - -1.68 3.75-3.75 3.75z: Close the inner circle path
  * 
  * Dimensions: 24x24 viewBox, pin point at (12, 24)
  */
