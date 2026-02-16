@@ -15,10 +15,7 @@
           "lng": 77.2036
         },
         "location_name": "New Delhi",
-        "tags": [
-          "Army",
-          "Defense"
-        ]
+        "tags": ["Army", "Defense"]
       },
       {
         "day": 23,
@@ -33,10 +30,7 @@
           "lng": 78.0211
         },
         "location_name": "Agra Fort, Uttar Pradesh",
-        "tags": [
-          "Mughal",
-          "History"
-        ]
+        "tags": ["Mughal", "History"]
       }
     ]
   },
@@ -56,11 +50,7 @@
           "lng": 72.8347
         },
         "location_name": "Hutatma Chowk, Mumbai",
-        "tags": [
-          "Statehood",
-          "Mumbai",
-          "History"
-        ]
+        "tags": ["Statehood", "Mumbai", "History"]
       },
       {
         "day": 2,
@@ -75,11 +65,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Cinema",
-          "Kolkata",
-          "Art"
-        ]
+        "tags": ["Cinema", "Kolkata", "Art"]
       },
       {
         "day": 3,
@@ -94,10 +80,7 @@
           "lng": 72.8211
         },
         "location_name": "Girgaon, Mumbai",
-        "tags": [
-          "Cinema",
-          "Heritage"
-        ]
+        "tags": ["Cinema", "Heritage"]
       },
       {
         "day": 4,
@@ -112,10 +95,7 @@
           "lng": 76.68
         },
         "location_name": "Srirangapatna, Karnataka",
-        "tags": [
-          "Mysore",
-          "Resistance"
-        ]
+        "tags": ["Mysore", "Resistance"]
       },
       {
         "day": 5,
@@ -130,10 +110,7 @@
           "lng": 73.8931
         },
         "location_name": "Aga Khan Palace, Pune",
-        "tags": [
-          "Gandhi",
-          "Freedom"
-        ]
+        "tags": ["Gandhi", "Freedom"]
       },
       {
         "day": 6,
@@ -148,10 +125,7 @@
           "lng": 81.8333
         },
         "location_name": "Prayagraj, Uttar Pradesh",
-        "tags": [
-          "Nehru",
-          "History"
-        ]
+        "tags": ["Nehru", "History"]
       },
       {
         "day": 7,
@@ -166,10 +140,7 @@
           "lng": 87.6766
         },
         "location_name": "Shantiniketan, West Bengal",
-        "tags": [
-          "Tagore",
-          "Literature"
-        ]
+        "tags": ["Tagore", "Literature"]
       },
       {
         "day": 8,
@@ -184,10 +155,7 @@
           "lng": 78.4419
         },
         "location_name": "Madanapalle, Andhra Pradesh",
-        "tags": [
-          "Philosophy",
-          "Spirituality"
-        ]
+        "tags": ["Philosophy", "Spirituality"]
       },
       {
         "day": 9,
@@ -202,10 +170,7 @@
           "lng": 73.7125
         },
         "location_name": "Kumbhalgarh Fort, Rajasthan",
-        "tags": [
-          "Rajput",
-          "Warrior"
-        ]
+        "tags": ["Rajput", "Warrior"]
       },
       {
         "day": 10,
@@ -220,10 +185,7 @@
           "lng": 77.7064
         },
         "location_name": "Meerut, Uttar Pradesh",
-        "tags": [
-          "1857",
-          "Revolt"
-        ]
+        "tags": ["1857", "Revolt"]
       },
       {
         "day": 11,
@@ -238,10 +200,7 @@
           "lng": 71.751
         },
         "location_name": "Pokhran, Rajasthan",
-        "tags": [
-          "Science",
-          "Defence"
-        ]
+        "tags": ["Science", "Defence"]
       },
       {
         "day": 12,
@@ -256,10 +215,7 @@
           "lng": 73.0185
         },
         "location_name": "Mehrangarh Fort, Jodhpur",
-        "tags": [
-          "Rajasthan",
-          "History"
-        ]
+        "tags": ["Rajasthan", "History"]
       },
       {
         "day": 13,
@@ -274,10 +230,7 @@
           "lng": 77.2081
         },
         "location_name": "Sansad Bhavan, Delhi",
-        "tags": [
-          "Democracy",
-          "Politics"
-        ]
+        "tags": ["Democracy", "Politics"]
       },
       {
         "day": 14,
@@ -292,10 +245,7 @@
           "lng": 73.4503
         },
         "location_name": "Purandar Fort, Maharashtra",
-        "tags": [
-          "Maratha",
-          "Warrior"
-        ]
+        "tags": ["Maratha", "Warrior"]
       },
       {
         "day": 15,
@@ -310,10 +260,7 @@
           "lng": 75.8573
         },
         "location_name": "Ludhiana, Punjab",
-        "tags": [
-          "Revolutionary",
-          "History"
-        ]
+        "tags": ["Revolutionary", "History"]
       },
       {
         "day": 16,
@@ -328,10 +275,7 @@
           "lng": 88.6138
         },
         "location_name": "Gangtok, Sikkim",
-        "tags": [
-          "Statehood",
-          "Sikkim"
-        ]
+        "tags": ["Statehood", "Sikkim"]
       },
       {
         "day": 17,
@@ -346,10 +290,7 @@
           "lng": 79.913
         },
         "location_name": "Kannauj, Uttar Pradesh",
-        "tags": [
-          "Mughal",
-          "War"
-        ]
+        "tags": ["Mughal", "War"]
       },
       {
         "day": 18,
@@ -364,10 +305,7 @@
           "lng": 71.745
         },
         "location_name": "Pokhran, Rajasthan",
-        "tags": [
-          "Nuclear",
-          "History"
-        ]
+        "tags": ["Nuclear", "History"]
       },
       {
         "day": 19,
@@ -382,10 +320,7 @@
           "lng": 73.8567
         },
         "location_name": "Pune, Maharashtra",
-        "tags": [
-          "History",
-          "Tragedy"
-        ]
+        "tags": ["History", "Tragedy"]
       },
       {
         "day": 20,
@@ -400,10 +335,7 @@
           "lng": 75.7237
         },
         "location_name": "Kappad Beach, Kerala",
-        "tags": [
-          "Exploration",
-          "Colonial"
-        ]
+        "tags": ["Exploration", "Colonial"]
       },
       {
         "day": 21,
@@ -418,10 +350,7 @@
           "lng": 79.9439
         },
         "location_name": "Sriperumbudur, Tamil Nadu",
-        "tags": [
-          "Politics",
-          "Tragedy"
-        ]
+        "tags": ["Politics", "Tragedy"]
       },
       {
         "day": 22,
@@ -436,10 +365,7 @@
           "lng": 87.9
         },
         "location_name": "Radhanagar, West Bengal",
-        "tags": [
-          "Reform",
-          "History"
-        ]
+        "tags": ["Reform", "History"]
       },
       {
         "day": 23,
@@ -454,10 +380,7 @@
           "lng": 78.4372
         },
         "location_name": "Uttarkashi, Uttarakhand",
-        "tags": [
-          "Women",
-          "Achievement"
-        ]
+        "tags": ["Women", "Achievement"]
       },
       {
         "day": 24,
@@ -472,10 +395,7 @@
           "lng": 87.1065
         },
         "location_name": "Churulia, West Bengal",
-        "tags": [
-          "Poet",
-          "Revolution"
-        ]
+        "tags": ["Poet", "Revolution"]
       },
       {
         "day": 25,
@@ -490,10 +410,7 @@
           "lng": 82.9739
         },
         "location_name": "Varanasi, Uttar Pradesh",
-        "tags": [
-          "Music",
-          "Culture"
-        ]
+        "tags": ["Music", "Culture"]
       },
       {
         "day": 26,
@@ -508,10 +425,7 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": [
-          "Politics",
-          "Modern India"
-        ]
+        "tags": ["Politics", "Modern India"]
       },
       {
         "day": 27,
@@ -526,10 +440,7 @@
           "lng": 77.211
         },
         "location_name": "Shanti Vana, Delhi",
-        "tags": [
-          "Nehru",
-          "Legacy"
-        ]
+        "tags": ["Nehru", "Legacy"]
       },
       {
         "day": 28,
@@ -544,10 +455,7 @@
           "lng": 73.7898
         },
         "location_name": "Nashik, Maharashtra",
-        "tags": [
-          "History",
-          "Independence"
-        ]
+        "tags": ["History", "Independence"]
       },
       {
         "day": 29,
@@ -562,10 +470,7 @@
           "lng": 88.2627
         },
         "location_name": "Darjeeling, West Bengal",
-        "tags": [
-          "Adventure",
-          "Everest"
-        ]
+        "tags": ["Adventure", "Everest"]
       },
       {
         "day": 30,
@@ -580,10 +485,7 @@
           "lng": 73.8278
         },
         "location_name": "Panaji, Goa",
-        "tags": [
-          "Statehood",
-          "Goa"
-        ]
+        "tags": ["Statehood", "Goa"]
       },
       {
         "day": 31,
@@ -598,10 +500,7 @@
           "lng": 75.7533
         },
         "location_name": "Maheshwar, Madhya Pradesh",
-        "tags": [
-          "Queen",
-          "History"
-        ]
+        "tags": ["Queen", "History"]
       }
     ]
   },
@@ -621,10 +520,7 @@
           "lng": 72.8335
         },
         "location_name": "Gateway of India, Mumbai",
-        "tags": [
-          "Gandhi",
-          "International"
-        ]
+        "tags": ["Gandhi", "International"]
       },
       {
         "day": 2,
@@ -639,10 +535,7 @@
           "lng": 78.4867
         },
         "location_name": "Hyderabad, Telangana",
-        "tags": [
-          "Statehood",
-          "Politics"
-        ]
+        "tags": ["Statehood", "Politics"]
       },
       {
         "day": 3,
@@ -657,10 +550,7 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": [
-          "Partition",
-          "Independence"
-        ]
+        "tags": ["Partition", "Independence"]
       },
       {
         "day": 4,
@@ -675,10 +565,7 @@
           "lng": 80.2707
         },
         "location_name": "Chennai, Tamil Nadu",
-        "tags": [
-          "Politics",
-          "Rajaji"
-        ]
+        "tags": ["Politics", "Rajaji"]
       },
       {
         "day": 5,
@@ -693,10 +580,7 @@
           "lng": 85.1441
         },
         "location_name": "Gandhi Maidan, Patna",
-        "tags": [
-          "JP Movement",
-          "Revolution"
-        ]
+        "tags": ["JP Movement", "Revolution"]
       },
       {
         "day": 6,
@@ -711,10 +595,7 @@
           "lng": 74.8765
         },
         "location_name": "Golden Temple, Amritsar",
-        "tags": [
-          "Amritsar",
-          "History"
-        ]
+        "tags": ["Amritsar", "History"]
       },
       {
         "day": 7,
@@ -729,10 +610,7 @@
           "lng": 72.8353
         },
         "location_name": "Chhatrapati Shivaji Terminus (Contextual)",
-        "tags": [
-          "Gandhi",
-          "Inspiration"
-        ]
+        "tags": ["Gandhi", "Inspiration"]
       },
       {
         "day": 8,
@@ -747,10 +625,7 @@
           "lng": 72.8656
         },
         "location_name": "Sahar Airport, Mumbai",
-        "tags": [
-          "Aviation",
-          "Modern India"
-        ]
+        "tags": ["Aviation", "Modern India"]
       },
       {
         "day": 9,
@@ -765,10 +640,7 @@
           "lng": 85.3096
         },
         "location_name": "Ranchi, Jharkhand",
-        "tags": [
-          "Tribal Rights",
-          "Hero"
-        ]
+        "tags": ["Tribal Rights", "Hero"]
       },
       {
         "day": 10,
@@ -783,10 +655,7 @@
           "lng": 77.2036
         },
         "location_name": "Air Force Station, Delhi",
-        "tags": [
-          "IAF",
-          "Defense"
-        ]
+        "tags": ["IAF", "Defense"]
       },
       {
         "day": 11,
@@ -801,10 +670,7 @@
           "lng": 79.9122
         },
         "location_name": "Shahjahanpur, Uttar Pradesh",
-        "tags": [
-          "Revolutionary",
-          "Poet"
-        ]
+        "tags": ["Revolutionary", "Poet"]
       },
       {
         "day": 12,
@@ -819,10 +685,7 @@
           "lng": 81.837
         },
         "location_name": "Allahabad High Court, Prayagraj",
-        "tags": [
-          "Judiciary",
-          "Politics"
-        ]
+        "tags": ["Judiciary", "Politics"]
       },
       {
         "day": 13,
@@ -837,10 +700,7 @@
           "lng": 88.351
         },
         "location_name": "Netaji Bhawan, Kolkata",
-        "tags": [
-          "Netaji",
-          "INA"
-        ]
+        "tags": ["Netaji", "INA"]
       },
       {
         "day": 14,
@@ -855,10 +715,7 @@
           "lng": 77.2295
         },
         "location_name": "India Gate, Delhi (Contextual)",
-        "tags": [
-          "History",
-          "Partition"
-        ]
+        "tags": ["History", "Partition"]
       },
       {
         "day": 15,
@@ -873,10 +730,7 @@
           "lng": 77.2153
         },
         "location_name": "President's House, Delhi",
-        "tags": [
-          "RTI",
-          "Rights"
-        ]
+        "tags": ["RTI", "Rights"]
       },
       {
         "day": 16,
@@ -891,10 +745,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "C.R. Das",
-          "Bengal"
-        ]
+        "tags": ["C.R. Das", "Bengal"]
       },
       {
         "day": 17,
@@ -909,10 +760,7 @@
           "lng": 78.1772
         },
         "location_name": "Phool Bagh, Gwalior",
-        "tags": [
-          "Rani Jhansi",
-          "1857"
-        ]
+        "tags": ["Rani Jhansi", "1857"]
       },
       {
         "day": 18,
@@ -927,10 +775,7 @@
           "lng": 73.7042
         },
         "location_name": "Haldighati, Rajasthan",
-        "tags": [
-          "Rajput",
-          "History"
-        ]
+        "tags": ["Rajput", "History"]
       },
       {
         "day": 19,
@@ -945,10 +790,7 @@
           "lng": 80.23
         },
         "location_name": "Sriharikota, Andhra Pradesh",
-        "tags": [
-          "ISRO",
-          "Science"
-        ]
+        "tags": ["ISRO", "Science"]
       },
       {
         "day": 20,
@@ -963,10 +805,7 @@
           "lng": 78.169
         },
         "location_name": "Gwalior Fort, Madhya Pradesh",
-        "tags": [
-          "1857",
-          "British Raj"
-        ]
+        "tags": ["1857", "British Raj"]
       },
       {
         "day": 21,
@@ -981,10 +820,7 @@
           "lng": 79.45
         },
         "location_name": "Karimnagar, Telangana",
-        "tags": [
-          "Economy",
-          "Reform"
-        ]
+        "tags": ["Economy", "Reform"]
       },
       {
         "day": 22,
@@ -999,10 +835,7 @@
           "lng": 73.8567
         },
         "location_name": "Ganeshkhind Road, Pune",
-        "tags": [
-          "Revolutionary",
-          "Pune"
-        ]
+        "tags": ["Revolutionary", "Pune"]
       },
       {
         "day": 23,
@@ -1017,10 +850,7 @@
           "lng": 88.25
         },
         "location_name": "Plassey, West Bengal",
-        "tags": [
-          "Bengal",
-          "British Raj"
-        ]
+        "tags": ["Bengal", "British Raj"]
       },
       {
         "day": 24,
@@ -1035,10 +865,7 @@
           "lng": 79.9333
         },
         "location_name": "Jabalpur, Madhya Pradesh",
-        "tags": [
-          "Gondwana",
-          "Warrior"
-        ]
+        "tags": ["Gondwana", "Warrior"]
       },
       {
         "day": 25,
@@ -1053,10 +880,7 @@
           "lng": 77.2273
         },
         "location_name": "New Delhi, Delhi",
-        "tags": [
-          "Emergency",
-          "Politics"
-        ]
+        "tags": ["Emergency", "Politics"]
       },
       {
         "day": 26,
@@ -1071,10 +895,7 @@
           "lng": 88.37
         },
         "location_name": "Naihati, West Bengal",
-        "tags": [
-          "Literature",
-          "National Anthem"
-        ]
+        "tags": ["Literature", "National Anthem"]
       },
       {
         "day": 27,
@@ -1089,10 +910,7 @@
           "lng": 74.8765
         },
         "location_name": "Golden Temple (Heritage Context)",
-        "tags": [
-          "Sikh Empire",
-          "Punjab"
-        ]
+        "tags": ["Sikh Empire", "Punjab"]
       },
       {
         "day": 28,
@@ -1107,10 +925,7 @@
           "lng": 78.4867
         },
         "location_name": "Hyderabad, Telangana",
-        "tags": [
-          "Politics",
-          "Legacy"
-        ]
+        "tags": ["Politics", "Legacy"]
       },
       {
         "day": 29,
@@ -1125,10 +940,7 @@
           "lng": 88.37
         },
         "location_name": "ISI, Kolkata",
-        "tags": [
-          "Statistics",
-          "Planning"
-        ]
+        "tags": ["Statistics", "Planning"]
       },
       {
         "day": 30,
@@ -1143,10 +955,7 @@
           "lng": 87.45
         },
         "location_name": "Bhognadih, Jharkhand",
-        "tags": [
-          "Tribal Revolt",
-          "History"
-        ]
+        "tags": ["Tribal Revolt", "History"]
       }
     ]
   },
@@ -1166,10 +975,7 @@
           "lng": 72.8236
         },
         "location_name": "Nariman Point, Mumbai",
-        "tags": [
-          "Economy",
-          "Banking"
-        ]
+        "tags": ["Economy", "Banking"]
       },
       {
         "day": 2,
@@ -1184,10 +990,7 @@
           "lng": 77.1734
         },
         "location_name": "Viceregal Lodge, Shimla",
-        "tags": [
-          "Diplomacy",
-          "History"
-        ]
+        "tags": ["Diplomacy", "History"]
       },
       {
         "day": 3,
@@ -1202,10 +1005,7 @@
           "lng": 73.8567
         },
         "location_name": "Kesari Wada, Pune",
-        "tags": [
-          "Tilak",
-          "Swaraj"
-        ]
+        "tags": ["Tilak", "Swaraj"]
       },
       {
         "day": 4,
@@ -1220,10 +1020,7 @@
           "lng": 83.2185
         },
         "location_name": "Visakhapatnam, Andhra Pradesh",
-        "tags": [
-          "Tribal Revolt",
-          "Freedom"
-        ]
+        "tags": ["Tribal Revolt", "Freedom"]
       },
       {
         "day": 5,
@@ -1238,10 +1035,7 @@
           "lng": 77.2153
         },
         "location_name": "North Block, Delhi",
-        "tags": [
-          "Sardar Patel",
-          "Unity"
-        ]
+        "tags": ["Sardar Patel", "Unity"]
       },
       {
         "day": 6,
@@ -1256,10 +1050,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Politics",
-          "Legacy"
-        ]
+        "tags": ["Politics", "Legacy"]
       },
       {
         "day": 7,
@@ -1274,10 +1065,7 @@
           "lng": 72.8311
         },
         "location_name": "Watson\u2019s Hotel, Mumbai",
-        "tags": [
-          "Cinema",
-          "Heritage"
-        ]
+        "tags": ["Cinema", "Heritage"]
       },
       {
         "day": 8,
@@ -1292,10 +1080,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Politics",
-          "Bengal"
-        ]
+        "tags": ["Politics", "Bengal"]
       },
       {
         "day": 9,
@@ -1310,10 +1095,7 @@
           "lng": 72.8335
         },
         "location_name": "Dalal Street, Mumbai",
-        "tags": [
-          "Finance",
-          "Mumbai"
-        ]
+        "tags": ["Finance", "Mumbai"]
       },
       {
         "day": 10,
@@ -1328,10 +1110,7 @@
           "lng": 72.8258
         },
         "location_name": "Wankhede Stadium, Mumbai",
-        "tags": [
-          "Cricket",
-          "Legend"
-        ]
+        "tags": ["Cricket", "Legend"]
       },
       {
         "day": 11,
@@ -1346,10 +1125,7 @@
           "lng": 77.2215
         },
         "location_name": "Ambedkar Stadium Bus Terminal, Delhi",
-        "tags": [
-          "Peace",
-          "Diplomacy"
-        ]
+        "tags": ["Peace", "Diplomacy"]
       },
       {
         "day": 12,
@@ -1364,10 +1140,7 @@
           "lng": 72.8621
         },
         "location_name": "Bandra-Kurla Complex, Mumbai",
-        "tags": [
-          "Rural Development",
-          "Economy"
-        ]
+        "tags": ["Rural Development", "Economy"]
       },
       {
         "day": 13,
@@ -1382,10 +1155,7 @@
           "lng": 88.3361
         },
         "location_name": "Maidan, Kolkata",
-        "tags": [
-          "Football",
-          "Heritage"
-        ]
+        "tags": ["Football", "Heritage"]
       },
       {
         "day": 14,
@@ -1400,10 +1170,7 @@
           "lng": 80.23
         },
         "location_name": "Satish Dhawan Space Centre, Sriharikota",
-        "tags": [
-          "ISRO",
-          "Moon Mission"
-        ]
+        "tags": ["ISRO", "Moon Mission"]
       },
       {
         "day": 15,
@@ -1418,10 +1185,7 @@
           "lng": 79.7036
         },
         "location_name": "Kanchipuram, Tamil Nadu",
-        "tags": [
-          "Politics",
-          "Social Justice"
-        ]
+        "tags": ["Politics", "Social Justice"]
       },
       {
         "day": 16,
@@ -1436,10 +1200,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Social Reform",
-          "History"
-        ]
+        "tags": ["Social Reform", "History"]
       },
       {
         "day": 17,
@@ -1454,10 +1215,7 @@
           "lng": 80.2707
         },
         "location_name": "Fort St. George, Chennai",
-        "tags": [
-          "City Change",
-          "Identity"
-        ]
+        "tags": ["City Change", "Identity"]
       },
       {
         "day": 18,
@@ -1472,10 +1230,7 @@
           "lng": 77.2153
         },
         "location_name": "Viceregal Lodge, Delhi",
-        "tags": [
-          "Independence",
-          "Law"
-        ]
+        "tags": ["Independence", "Law"]
       },
       {
         "day": 19,
@@ -1490,10 +1245,7 @@
           "lng": 77.2273
         },
         "location_name": "Parliament House, Delhi",
-        "tags": [
-          "Economy",
-          "Indira Gandhi"
-        ]
+        "tags": ["Economy", "Indira Gandhi"]
       },
       {
         "day": 20,
@@ -1508,10 +1260,7 @@
           "lng": 88.3667
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Swadeshi",
-          "Bengal"
-        ]
+        "tags": ["Swadeshi", "Bengal"]
       },
       {
         "day": 21,
@@ -1526,10 +1275,7 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": [
-          "Women",
-          "Politics"
-        ]
+        "tags": ["Women", "Politics"]
       },
       {
         "day": 22,
@@ -1544,10 +1290,7 @@
           "lng": 77.2081
         },
         "location_name": "Constitution Hall, Delhi",
-        "tags": [
-          "Flag",
-          "Tiranga"
-        ]
+        "tags": ["Flag", "Tiranga"]
       },
       {
         "day": 23,
@@ -1562,10 +1305,7 @@
           "lng": 74.38
         },
         "location_name": "Bhabra, Madhya Pradesh",
-        "tags": [
-          "Azad",
-          "Revolutionary"
-        ]
+        "tags": ["Azad", "Revolutionary"]
       },
       {
         "day": 24,
@@ -1580,10 +1320,7 @@
           "lng": 77.2081
         },
         "location_name": "Parliament House, Delhi",
-        "tags": [
-          "Economy",
-          "Reform"
-        ]
+        "tags": ["Economy", "Reform"]
       },
       {
         "day": 25,
@@ -1598,10 +1335,7 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": [
-          "Kalam",
-          "Science"
-        ]
+        "tags": ["Kalam", "Science"]
       },
       {
         "day": 26,
@@ -1616,10 +1350,7 @@
           "lng": 76.13
         },
         "location_name": "Kargil War Memorial, Dras",
-        "tags": [
-          "Defense",
-          "Victory"
-        ]
+        "tags": ["Defense", "Victory"]
       },
       {
         "day": 27,
@@ -1634,10 +1365,7 @@
           "lng": 91.8833
         },
         "location_name": "IIM Shillong, Meghalaya",
-        "tags": [
-          "Kalam",
-          "Tribute"
-        ]
+        "tags": ["Kalam", "Tribute"]
       },
       {
         "day": 28,
@@ -1652,10 +1380,7 @@
           "lng": 73.8567
         },
         "location_name": "Pune, Maharashtra",
-        "tags": [
-          "Home Rule",
-          "History"
-        ]
+        "tags": ["Home Rule", "History"]
       },
       {
         "day": 29,
@@ -1670,10 +1395,7 @@
           "lng": 88.3361
         },
         "location_name": "Eden Gardens (Heritage Context), Kolkata",
-        "tags": [
-          "Football",
-          "Nationalism"
-        ]
+        "tags": ["Football", "Nationalism"]
       },
       {
         "day": 30,
@@ -1688,10 +1410,7 @@
           "lng": 80.2575
         },
         "location_name": "Adyar, Chennai",
-        "tags": [
-          "Home Rule",
-          "Annie Besant"
-        ]
+        "tags": ["Home Rule", "Annie Besant"]
       },
       {
         "day": 31,
@@ -1706,10 +1425,7 @@
           "lng": 74.8723
         },
         "location_name": "Jallianwala Bagh (Heritage Context), Amritsar",
-        "tags": [
-          "Udham Singh",
-          "Justice"
-        ]
+        "tags": ["Udham Singh", "Justice"]
       }
     ]
   },
@@ -1729,10 +1445,7 @@
           "lng": 72.822
         },
         "location_name": "Girgaon Chowpatty, Mumbai",
-        "tags": [
-          "Tilak",
-          "Non-Cooperation"
-        ]
+        "tags": ["Tilak", "Non-Cooperation"]
       },
       {
         "day": 2,
@@ -1747,10 +1460,7 @@
           "lng": 80.6514
         },
         "location_name": "Bhatlapenumarru, Andhra Pradesh",
-        "tags": [
-          "Tiranga",
-          "Identity"
-        ]
+        "tags": ["Tiranga", "Identity"]
       },
       {
         "day": 3,
@@ -1765,10 +1475,7 @@
           "lng": 79.126
         },
         "location_name": "Budaun, Uttar Pradesh",
-        "tags": [
-          "Cinema",
-          "Poetry"
-        ]
+        "tags": ["Cinema", "Poetry"]
       },
       {
         "day": 4,
@@ -1783,10 +1490,7 @@
           "lng": 72.929
         },
         "location_name": "BARC, Trombay, Mumbai",
-        "tags": [
-          "Science",
-          "Atomic Energy"
-        ]
+        "tags": ["Science", "Atomic Energy"]
       },
       {
         "day": 5,
@@ -1801,10 +1505,7 @@
           "lng": 77.1734
         },
         "location_name": "Shimla, Himachal Pradesh",
-        "tags": [
-          "Judiciary",
-          "Women Empowerment"
-        ]
+        "tags": ["Judiciary", "Women Empowerment"]
       },
       {
         "day": 6,
@@ -1819,10 +1520,7 @@
           "lng": 80.2878
         },
         "location_name": "Madras High Court, Chennai",
-        "tags": [
-          "Law",
-          "Architecture"
-        ]
+        "tags": ["Law", "Architecture"]
       },
       {
         "day": 7,
@@ -1837,10 +1535,7 @@
           "lng": 88.3474
         },
         "location_name": "Town Hall, Kolkata",
-        "tags": [
-          "Swadeshi",
-          "Bengal"
-        ]
+        "tags": ["Swadeshi", "Bengal"]
       },
       {
         "day": 8,
@@ -1855,10 +1550,7 @@
           "lng": 72.8122
         },
         "location_name": "August Kranti Maidan, Mumbai",
-        "tags": [
-          "Quit India",
-          "Gandhi"
-        ]
+        "tags": ["Quit India", "Gandhi"]
       },
       {
         "day": 9,
@@ -1873,10 +1565,7 @@
           "lng": 80.8012
         },
         "location_name": "Kakori, Uttar Pradesh",
-        "tags": [
-          "Revolutionary",
-          "HRA"
-        ]
+        "tags": ["Revolutionary", "HRA"]
       },
       {
         "day": 10,
@@ -1891,10 +1580,7 @@
           "lng": 72.8347
         },
         "location_name": "Mumbai, Maharashtra",
-        "tags": [
-          "Classical Music",
-          "Heritage"
-        ]
+        "tags": ["Classical Music", "Heritage"]
       },
       {
         "day": 11,
@@ -1909,10 +1595,7 @@
           "lng": 85.3906
         },
         "location_name": "Muzaffarpur Jail, Bihar",
-        "tags": [
-          "Martyr",
-          "Revolution"
-        ]
+        "tags": ["Martyr", "Revolution"]
       },
       {
         "day": 12,
@@ -1927,10 +1610,7 @@
           "lng": 81.882
         },
         "location_name": "Allahabad Fort, Uttar Pradesh",
-        "tags": [
-          "British Raj",
-          "History"
-        ]
+        "tags": ["British Raj", "History"]
       },
       {
         "day": 13,
@@ -1945,10 +1625,7 @@
           "lng": 80.2707
         },
         "location_name": "Fort St. George, Chennai",
-        "tags": [
-          "Governance",
-          "British Raj"
-        ]
+        "tags": ["Governance", "British Raj"]
       },
       {
         "day": 14,
@@ -1963,10 +1640,7 @@
           "lng": 77.2081
         },
         "location_name": "Parliament House, Delhi",
-        "tags": [
-          "Independence",
-          "Nehru"
-        ]
+        "tags": ["Independence", "Nehru"]
       },
       {
         "day": 15,
@@ -1981,10 +1655,7 @@
           "lng": 77.241
         },
         "location_name": "Red Fort, Delhi",
-        "tags": [
-          "Independence",
-          "Red Fort"
-        ]
+        "tags": ["Independence", "Red Fort"]
       },
       {
         "day": 16,
@@ -1999,10 +1670,7 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": [
-          "Partition",
-          "History"
-        ]
+        "tags": ["Partition", "History"]
       },
       {
         "day": 17,
@@ -2017,10 +1685,7 @@
           "lng": 74.57
         },
         "location_name": "Wagah Border, Amritsar",
-        "tags": [
-          "Partition",
-          "History"
-        ]
+        "tags": ["Partition", "History"]
       },
       {
         "day": 18,
@@ -2035,10 +1700,7 @@
           "lng": 88.351
         },
         "location_name": "Netaji Bhawan, Kolkata",
-        "tags": [
-          "Netaji",
-          "INA"
-        ]
+        "tags": ["Netaji", "INA"]
       },
       {
         "day": 19,
@@ -2053,10 +1715,7 @@
           "lng": 77.4126
         },
         "location_name": "Bhopal, Madhya Pradesh",
-        "tags": [
-          "President",
-          "Politics"
-        ]
+        "tags": ["President", "Politics"]
       },
       {
         "day": 20,
@@ -2071,10 +1730,7 @@
           "lng": 77.2153
         },
         "location_name": "Vir Bhumi, Delhi",
-        "tags": [
-          "Rajiv Gandhi",
-          "Modern India"
-        ]
+        "tags": ["Rajiv Gandhi", "Modern India"]
       },
       {
         "day": 21,
@@ -2089,10 +1745,7 @@
           "lng": 77.2273
         },
         "location_name": "Parliament House, Delhi",
-        "tags": [
-          "Wildlife",
-          "Environment"
-        ]
+        "tags": ["Wildlife", "Environment"]
       },
       {
         "day": 22,
@@ -2107,10 +1760,7 @@
           "lng": 72.8122
         },
         "location_name": "Elphinstone Mill, Mumbai",
-        "tags": [
-          "Swadeshi",
-          "Gandhi"
-        ]
+        "tags": ["Swadeshi", "Gandhi"]
       },
       {
         "day": 23,
@@ -2125,10 +1775,7 @@
           "lng": 80.23
         },
         "location_name": "ISRO Control Centre, Bengaluru",
-        "tags": [
-          "ISRO",
-          "Space"
-        ]
+        "tags": ["ISRO", "Space"]
       },
       {
         "day": 24,
@@ -2143,10 +1790,7 @@
           "lng": 72.8311
         },
         "location_name": "Surat, Gujarat",
-        "tags": [
-          "British Raj",
-          "History"
-        ]
+        "tags": ["British Raj", "History"]
       },
       {
         "day": 25,
@@ -2161,10 +1805,7 @@
           "lng": 77.2036
         },
         "location_name": "India Gate, Delhi",
-        "tags": [
-          "Defense",
-          "History"
-        ]
+        "tags": ["Defense", "History"]
       },
       {
         "day": 26,
@@ -2179,10 +1820,7 @@
           "lng": 88.3501
         },
         "location_name": "Mother House, Kolkata",
-        "tags": [
-          "Mother Teresa",
-          "Service"
-        ]
+        "tags": ["Mother Teresa", "Service"]
       },
       {
         "day": 27,
@@ -2197,10 +1835,7 @@
           "lng": 77.5771
         },
         "location_name": "Leh, Ladakh",
-        "tags": [
-          "Kargil",
-          "Valour"
-        ]
+        "tags": ["Kargil", "Valour"]
       },
       {
         "day": 28,
@@ -2215,10 +1850,7 @@
           "lng": 77.2153
         },
         "location_name": "Ministry of Environment, Delhi",
-        "tags": [
-          "Environment",
-          "Conservation"
-        ]
+        "tags": ["Environment", "Conservation"]
       },
       {
         "day": 29,
@@ -2233,10 +1865,7 @@
           "lng": 81.8333
         },
         "location_name": "Dhyan Chand Stadium, Lucknow",
-        "tags": [
-          "Hockey",
-          "National Sports Day"
-        ]
+        "tags": ["Hockey", "National Sports Day"]
       },
       {
         "day": 30,
@@ -2251,10 +1880,7 @@
           "lng": 78.0211
         },
         "location_name": "Agra Fort, Uttar Pradesh",
-        "tags": [
-          "Mughal",
-          "Architecture"
-        ]
+        "tags": ["Mughal", "Architecture"]
       },
       {
         "day": 31,
@@ -2269,10 +1895,42 @@
           "lng": 77.2153
         },
         "location_name": "Parliament House, Delhi",
-        "tags": [
-          "Statehood",
-          "Identity"
-        ]
+        "tags": ["Statehood", "Identity"]
+      }
+    ]
+  },
+  "2": {
+    "month": "February",
+    "data": [
+      {
+        "day": 15,
+        "year": 1764,
+        "title": "Founding of St. Louis (Contextual)",
+        "category": "World History",
+        "short_summary": "Pierre Lacl\u00e8de founded the settlement of St. Louis.",
+        "full_story": "A significant moment in colonial territory history that eventually influenced global trade routes.",
+        "ai_insight": "Even a small settlement can become the gateway to a continent.",
+        "coordinates": {
+          "lat": 38.627,
+          "lng": -90.1994
+        },
+        "location_name": "St. Louis, MO",
+        "tags": ["Founding", "Colonial"]
+      },
+      {
+        "day": 16,
+        "year": 1948,
+        "title": "Miranda Discovered",
+        "category": "Science",
+        "short_summary": "Gerard Kuiper discovered the moon Miranda orbiting Uranus.",
+        "full_story": "The discovery of Uranus's fifth moon was a milestone in planetary science and expanded our understanding of the solar system's complexity.",
+        "ai_insight": "Even in the coldest reaches of space, new worlds are waiting to be found.",
+        "coordinates": {
+          "lat": 28.5721,
+          "lng": 80.648
+        },
+        "location_name": "McLean, Virginia",
+        "tags": ["Science", "Astronomy"]
       }
     ]
   }
