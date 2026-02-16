@@ -13,6 +13,26 @@ const defaultCenter = {
 	lng: 78.9629
 };
 
+/**
+ * SVG path for the custom map marker icon.
+ * Creates a pin/teardrop shape with an inner circle cutout.
+ * 
+ * Path breakdown:
+ * - M12 0: Start at top center (12, 0)
+ * - C7.03 0 3 4.03 3 9: Create the rounded top of the pin (cubic bezier)
+ * - c0 6.75 9 15 9 15: Draw the pin's pointed bottom
+ * - s9-8.25 9-15: Mirror the bottom point path
+ * - c0-4.97-4.03-9-9-9: Complete the top curve
+ * - zm0 12.75: Move to inner circle starting point
+ * - c-2.07 0-3.75-1.68-3.75-3.75: Draw the inner circle (left curve, cubic bezier)
+ * - S9.93 5.25 12 5.25: Smooth curve to continue inner circle (right curve)
+ * - s3.75 1.68 3.75 3.75: Smooth curve to complete inner circle
+ * - -1.68 3.75-3.75 3.75z: Close the inner circle path
+ * 
+ * Dimensions: 24x24 viewBox, pin point at (12, 24)
+ */
+const MARKER_PIN_PATH = 'M12 0C7.03 0 3 4.03 3 9c0 6.75 9 15 9 15s9-8.25 9-15c0-4.97-4.03-9-9-9zm0 12.75c-2.07 0-3.75-1.68-3.75-3.75S9.93 5.25 12 5.25s3.75 1.68 3.75 3.75-1.68 3.75-3.75 3.75z';
+
 // Custom vintage map styling
 const mapStyles = [
 	{
@@ -110,11 +130,8 @@ export default function MapView({ sites, selectedId, onSelect }) {
 
 	// Custom marker icon for vintage look
 	const createMarkerIcon = (isSelected) => {
-		// Better pin shape with inner circle
-		const pinPath = 'M12 0C7.03 0 3 4.03 3 9c0 6.75 9 15 9 15s9-8.25 9-15c0-4.97-4.03-9-9-9zm0 12.75c-2.07 0-3.75-1.68-3.75-3.75S9.93 5.25 12 5.25s3.75 1.68 3.75 3.75-1.68 3.75-3.75 3.75z';
-
 		return {
-			path: pinPath,
+			path: MARKER_PIN_PATH,
 			fillColor: isSelected ? '#c9a961' : '#e8dcc4',
 			fillOpacity: 1,
 			strokeColor: isSelected ? '#1a1a1a' : '#8b7a3d',
