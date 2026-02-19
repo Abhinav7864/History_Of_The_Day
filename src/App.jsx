@@ -3,6 +3,7 @@ import HomePage from "./pages/index";
 import ExplorePage from "./pages/explore";
 import MapPage from "./pages/map";
 import Navbar from "./components/common/Navbar";
+import Chatbot from "./components/Chatbot";
 
 // Layout placeholder if needed, or just standard routes
 function App() {
@@ -14,6 +15,7 @@ function App() {
 
         {/* Floating Navbar */}
         <Navbar />
+        <Chatbot />
 
         <Routes>
           <Route path="/" element={<HomePage />} />
